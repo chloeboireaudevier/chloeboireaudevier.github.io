@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background: #222;
+  background: #093f26;
   color: white;
   padding: 1rem;
   position: sticky;
@@ -44,7 +44,7 @@ header {
 }
 
 .hero span {
-  color: #007acc;
+  color: #093f26;
 }
 
 .section {
@@ -69,7 +69,7 @@ header {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #222;
+  background: #105636;
   color: white;
 }
 
@@ -78,7 +78,7 @@ footer {
   display: inline-block;
   margin-top: 1rem;
   padding: 0.75rem 1.5rem;
-  background: #007acc;
+  background: #093f26;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -102,6 +102,50 @@ body.dark .project-card {
 
 /*highlight of curent page ?*/
 .nav-links a.active {
-  color: #007acc;
+  color: #60ae8a;
   font-weight: bold;
+}
+
+/*hero */
+.hero {
+  padding: 4rem 2rem;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap; /* for mobile responsiveness */
+  gap: 2rem;
+}
+
+.hero-text {
+  flex: 1 1 300px; /* text grows and shrinks */
+}
+
+.hero-text h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-image {
+  flex: 0 0 300px; /* fixed width for image */
+}
+
+.hero-image img {
+  width: 100%;
+  border-radius: 15%; /* makes it circular */
+  object-fit: cover;
+}
+
+/*logo*/
+.logo img {
+  height: 30px;       /* adjust size */
+  width: auto;
+  display: block;
 }

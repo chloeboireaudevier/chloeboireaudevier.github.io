@@ -6,8 +6,8 @@
     "contact": "Contact"
     },
     "hero": {
-    "title": "Hello, I'm <span>Your Name</span>",
-    "subtitle": "A short tagline about you (e.g., Developer • Designer • Maker)",
+    "title": "Hello, I'm <span>Chloe</span> !",
+    "subtitle": "Currently in 2nd year in ENSEEIHT, i'm studying to become a software engineer :)",
     "cta": "See My Work"
     },
     "about": {
@@ -36,7 +36,7 @@
     "contact": "Contact"
     },
     "hero": {
-    "title": "Bonjour, je suis <span>Your Name</span>",
+    "title": "Bonjour, je suis <span>Chloé</span> !",
     "subtitle": "Une petite phrase d’accroche (ex. Développeur • Designer • Créateur)",
     "cta": "Voir mes projets"
     },
