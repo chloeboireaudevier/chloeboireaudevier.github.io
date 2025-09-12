@@ -1,0 +1,62 @@
+{
+"en": {
+    "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+    },
+    "hero": {
+    "title": "Hello, I'm <span>Your Name</span>",
+    "subtitle": "A short tagline about you (e.g., Developer • Designer • Maker)",
+    "cta": "See My Work"
+    },
+    "about": {
+    "title": "About Me",
+    "text": "Write a short bio about who you are, your interests, and your goals."
+    },
+    "project1": {
+    "title": "Project Title",
+    "text": "Short description of your project.",
+    "viewproject": "View Project"
+    },
+    "project2": {
+    "title": "Project Title",
+    "text": "Short description of your project.",
+    "viewproject": "View Project"
+    },
+    "contact": {
+    "title": "Contact",
+    "text": "Let’s connect! Reach me at <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
+    }
+},
+"fr": {
+    "nav": {
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact"
+    },
+    "hero": {
+    "title": "Bonjour, je suis <span>Your Name</span>",
+    "subtitle": "Une petite phrase d’accroche (ex. Développeur • Designer • Créateur)",
+    "cta": "Voir mes projets"
+    },
+    "about": {
+    "title": "À propos de moi",
+    "text": "Écrivez une courte biographie sur qui vous êtes, vos intérêts, et vos objectifs."
+    },
+    "project1": {
+    "title": "Titre du projet",
+    "text": "Brève description de votre projet.",
+    "viewproject": "Voir le projet"
+    },
+    "project2": {
+    "title": "Titre du projet",
+    "text": "Brève description de votre projet.",
+    "viewproject": "Voir le projet"
+    },
+    "contact": {
+    "title": "Contact",
+    "text": "Restons en contact ! Écrivez-moi à <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
+    }
+}
+}
