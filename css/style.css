@@ -98,3 +98,10 @@ body.dark footer {
 body.dark .project-card {
   background: #1e1e1e;
 }
+
+
+/*highlight of curent page ?*/
+.nav-links a.active {
+  color: #007acc;
+  font-weight: bold;
+}

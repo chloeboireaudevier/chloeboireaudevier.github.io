@@ -1,25 +1,14 @@
-// Dark mode toggle
-const toggleBtn = document.getElementById("theme-toggle");
-const body = document.body;
-
-toggleBtn.addEventListener("click", () => {
-body.classList.toggle("dark");
-toggleBtn.textContent = body.classList.contains("dark") ? "☀️" : "🌙";
-});
-
-///////////////////////////////// Translation
 let translations = {};
 let currentLang = "en";
 
 const langBtn = document.getElementById("lang-toggle");
+const themeBtn = document.getElementById("theme-toggle");
 
-// Load translations from JSON
+// Load translations
 fetch("translations.json")
-  .then(response => response.json())
+  .then(res => res.json())
   .then(data => {
     translations = data;
-
-    // Initialize the page
     updateLanguage(currentLang);
     langBtn.textContent = currentLang === "en" ? "FR" : "EN";
   })
@@ -32,7 +21,20 @@ langBtn.addEventListener("click", () => {
   langBtn.textContent = currentLang === "en" ? "FR" : "EN";
 });
 
-// Same updateLanguage function as before
+// Dark/light theme toggle
+themeBtn.addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+  themeBtn.textContent = document.body.classList.contains("dark") ? "☀️" : "🌙";
+});
+
+// Highlight active nav link
+document.querySelectorAll(".nav-links a").forEach(link => {
+  if (link.href === window.location.href) {
+    link.classList.add("active");
+  }
+});
+
+// Translation function
 function updateLanguage(lang) {
   document.querySelectorAll("[data-i18n]").forEach(el => {
     const keys = el.getAttribute("data-i18n").split(".");
@@ -42,24 +44,18 @@ function updateLanguage(lang) {
       if (text && text[k]) {
         text = text[k];
       } else {
-        console.warn(`Missing translation for: ${keys.join(".")} in ${lang}`);
+        console.warn(`Missing translation for key: ${keys.join(".")} in ${lang}`);
         text = null;
         break;
       }
     }
 
     if (text) {
-      if (["input", "textarea"].includes(el.tagName.toLowerCase())) {
+      if (["input","textarea"].includes(el.tagName.toLowerCase())) {
         el.placeholder = text;
       } else {
         el.innerHTML = text;
       }
     }
   });
-  
 }
-
-
-//INIT
-updateLanguage(currentLang);
-langBtn.textContent = "FR"; // show opposite language
