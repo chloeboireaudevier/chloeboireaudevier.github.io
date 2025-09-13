@@ -1,41 +1,81 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Your Name | About</title>
-<link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <header>
-  <nav class="navbar">
-    <a href="index.html" class="logo">
-    <img src="images/frog.jpg" alt="Logo" />
-    </a>
-    <ul class="nav-links">
-      <li><a href="index.html" data-i18n="nav.home">Home</a></li>
-      <li><a href="about.html" data-i18n="nav.about">About</a></li>
-      <li><a href="projects.html" data-i18n="nav.projects">Projects</a></li>
-      <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
-    </ul>
-    <div class="actions">
-      <button id="theme-toggle">🌙</button>
-      <button id="lang-toggle">FR</button>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chloé Boireau-Devier | About</title>
+    <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+    <header>
+    <nav class="navbar">
+        <a href="index.html" class="logo">
+        <img src="images/frog.jpg" alt="Logo" />
+        </a>
+        <ul class="nav-links">
+        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="about.html" data-i18n="nav.about">About</a></li>
+        <li><a href="projects.html" data-i18n="nav.projects">Projects</a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+        </ul>
+        <div class="actions">
+        <button id="theme-toggle">🌙</button>
+        <button id="lang-toggle">FR</button>
+        </div>
+    </nav>
+    </header>
+
+    <main>
+  <section id="about" class="section">
+    <h2 data-i18n="about.title">About Me</h2>
+
+    <!-- Personality aspect 1 -->
+    <div class="about-item">
+      <div class="about-text">
+        <p data-i18n="about.p1"></p>
+      </div>
+      <div class="about-image">
+        <img src="images/formal_picture_2025.jpg" alt="Chloe_formal">
+      </div>
     </div>
-  </nav>
-</header>
 
-  <main>
-    <section id="about" class="section">
-      <h2 data-i18n="about.title">About Me</h2>
-      <p data-i18n="about.text">Write a short bio about who you are, your interests, and your goals.</p>
-    </section>
-  </main>
+    <!-- Personality aspect 2 -->
+    <div class="about-item reverse">
+      <div class="about-text">
+        <p data-i18n="about.p2"></p>
+      </div>
+      <div class="about-image">
+        <img src="images/zelda_puzzle.jpg" alt="Zelda puzzle">
+      </div>
+    </div>
 
-  <footer>
-  <p>&copy; 2025 Your Name</p>
-</footer>
+    <!-- Personality aspect 3 -->
+    <div class="about-item">
+      <div class="about-text">
+        <p data-i18n="about.p3"></p>
+      </div>
+      <div class="about-image">
+        <img src="images/small_graphic_liner.jpg" alt="makeup">
+      </div>
+    </div>
 
-  <script src="js/script.js"></script>
-</body>
-</html>
+    <!-- Personality aspect 4 -->
+    <div class="about-item reverse">
+      <div class="about-text">
+        <p data-i18n="about.p4"></p>
+      </div>
+      <div class="about-image">
+        <img src="images/finisher_picture.jpg" alt="Race finisher">
+      </div>
+    </div>
+  </section>
+</main>
+
+
+    <footer>
+    <p>&copy; 2025 Your Name</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+    </body>
+    </html>

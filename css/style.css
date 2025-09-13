@@ -143,6 +143,56 @@ body.dark .project-card {
   object-fit: cover;
 }
 
+/*About page*/
+
+/* Container for each item */
+.about-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+/* Text block */
+.about-text {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* Image block */
+.about-image {
+  flex: 1;
+  max-width: 400px;
+}
+.about-image img {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Reverse layout (image left, text right) */
+.about-item.reverse {
+  flex-direction: row-reverse;
+}
+
+/* Responsive stacking */
+@media (max-width: 768px) {
+  .about-item,
+  .about-item.reverse {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .about-image {
+    max-width: 300px;
+  }
+}
+
+
 /*logo*/
 .logo img {
   height: 30px;       /* adjust size */

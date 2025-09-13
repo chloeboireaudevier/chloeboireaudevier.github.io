@@ -11,52 +11,59 @@
     "cta": "See My Work"
     },
     "about": {
-    "title": "About Me",
-    "text": "Write a short bio about who you are, your interests, and your goals."
+      "title": "About Me",
+      "p1": "I’m a curious learner who loves exploring new technologies and finding creative solutions. After my double degree in computer science and mathematics at Université Toulouse III, I joined ENSEEIHT to pursue a software engineer career !",
+      "p2": "My love for computer science mostly came from video games. Since I was little, I loved action-adventure and puzzle games ; the Legend of Zelda games being my favorites of all time. I wanted to create games that would move people the way they moved me. Now I enjoy creating any type of software ;)",
+      "p3": "I would describle myself as creative. I love trying new hobbies and turning crazy ideas into reality : a few examples would be SFX and artistic makeup, drawing, as well as sewing. I also am currently leanring how to play the guitar !",
+      "p4":"I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment is a sub two hours half marathon, and I am training for my first ever full marathon ! It really teaches discipline and rigor."
     },
     "project1": {
-    "title": "Project Title",
-    "text": "Short description of your project.",
-    "viewproject": "View Project"
+      "title": "Project Title",
+      "text": "Short description of your project.",
+      "viewproject": "View Project"
     },
     "project2": {
-    "title": "Project Title",
-    "text": "Short description of your project.",
-    "viewproject": "View Project"
+      "title": "Project Title",
+      "text": "Short description of your project.",
+      "viewproject": "View Project"
     },
     "contact": {
-    "title": "Contact",
-    "text": "Let’s connect! Reach me at <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
+      "title": "Contact",
+      "text": "Let’s connect! Reach me at <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
     }
-},
-"fr": {
+  },
+  "fr": {
     "nav": {
-    "about": "À propos",
-    "projects": "Projets",
-    "contact": "Contact"
+      "home": "Accueil",
+      "about": "À propos",
+      "projects": "Projets",
+      "contact": "Contact"
     },
     "hero": {
-    "title": "Bonjour, je suis <span>Chloé</span> !",
-    "subtitle": "Une petite phrase d’accroche (ex. Développeur • Designer • Créateur)",
-    "cta": "Voir mes projets"
+      "title": "Bonjour, je suis <span>Chloé</span> !",
+      "subtitle": "Actuellement étudiante à l'ENSEEIHT, j'aimerais devenir ingénrieure logiciel :)",
+      "cta": "Voir mes projets"
     },
     "about": {
-    "title": "À propos de moi",
-    "text": "Écrivez une courte biographie sur qui vous êtes, vos intérêts, et vos objectifs."
+      "title": "À propos de moi",
+      "p1": "Je suis une personne curieuse qui aime explorer de nouvelles technologies et trouver des solutions créatives.",
+      "p2": "La collaboration est au cœur de mon travail — j’aime travailler en équipe et partager mes connaissances.",
+      "p3": "En dehors du code, je pratique la photographie et le design, qui nourrissent ma créativité.",
+      "p4":"Place for p4"
     },
     "project1": {
-    "title": "Titre du projet",
-    "text": "Brève description de votre projet.",
-    "viewproject": "Voir le projet"
+      "title": "Titre du projet",
+      "text": "Brève description de votre projet.",
+      "viewproject": "Voir le projet"
     },
     "project2": {
-    "title": "Titre du projet",
-    "text": "Brève description de votre projet.",
-    "viewproject": "Voir le projet"
+      "title": "Titre du projet",
+      "text": "Brève description de votre projet.",
+      "viewproject": "Voir le projet"
     },
     "contact": {
-    "title": "Contact",
-    "text": "Restons en contact ! Écrivez-moi à <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
+      "title": "Contact",
+      "text": "Restons en contact ! Écrivez-moi à <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
     }
-}
+  }
 }
