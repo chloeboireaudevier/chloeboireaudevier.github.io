@@ -193,6 +193,37 @@ body.dark .project-card {
 }
 
 
+/*Contact page*/
+.contact-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
+  justify-content: center;
+}
+
+.contact-btn {
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+/* Different brand colors (can tweak to your theme) */
+.contact-btn.email { background: #093f26; }
+.contact-btn.github { background: #093f26; }
+.contact-btn.linkedin { background: #093f26; }
+
+.contact-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+
+
 /*logo*/
 .logo img {
   height: 30px;       /* adjust size */
