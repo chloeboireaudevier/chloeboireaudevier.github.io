@@ -31,7 +31,8 @@
     },
     "contact": {
       "title": "Contact",
-      "text": "Let’s connect! Reach me at <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
+      "subtitle": "Let’s connect! Reach me at <a href=mailto:boireaudevier.chloe@gmail.com>boireaudevier.chloe@gmail.com</a> or by clicking the buttons below !",
+      "emailbutton": "Email me"
     }
   },
   "fr": {
@@ -66,7 +67,8 @@
     },
     "contact": {
       "title": "Contact",
-      "text": "Restons en contact ! Écrivez-moi à <a href=\"mailto:youremail@example.com\">youremail@example.com</a>"
+      "subtitle": "Restons en contact ! Écrivez-moi à <a href=mailto:boireaudevier.chloe@gmail.com>boireaudevier.chloe@gmail.com</a> ou en cliquant les boutons en dessous !",
+      "emailbutton" : "Mail"
     }
   }
 }
