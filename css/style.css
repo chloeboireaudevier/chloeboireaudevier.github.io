@@ -192,6 +192,19 @@ body.dark .project-card {
   }
 }
 
+/*CV button*/
+.contact-btn.cv {
+  background: #093f26;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;   /* space above buttons */
+  margin-bottom: 2rem; /* space below buttons so they don't overlap next text */
+  justify-content: center;
+} /* Red for PDF */
+.contact-btn.cv:hover { opacity: 0.9; }
+
+
 
 /*Contact page*/
 .contact-buttons {
