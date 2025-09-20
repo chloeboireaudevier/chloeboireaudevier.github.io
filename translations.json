@@ -3,12 +3,13 @@
     "nav": {
     "home": "Home",
     "about": "About",
-    "projects": "Projects",
+    "projects": "Professional Projects",
+    "funProjects" : "Personnal Projects",
     "contact": "Contact"
     },
     "hero": {
     "title": "Hello, I'm <span>Chloe</span> !",
-    "subtitle": "Currently in 2nd year in ENSEEIHT, i'm studying to become a software engineer :)",
+    "subtitle": "Currently in 2nd year in ENSEEIHT, i'm studying to become a software engineer :)<br> By browsing this e-portfolio, you can learn more about my studies, my work, who I am and who I want to be !",
     "cta": "See My Work"
     },
     "about": {
@@ -18,6 +19,11 @@
       "p2": "My love for computer science mostly came from video games. Since I was little, I loved action-adventure and puzzle games ; the Legend of Zelda games being my favorites of all time. I wanted to create games that would move people the way they moved me. Now I enjoy creating any type of software ;)",
       "p3": "I would describle myself as creative. I love trying new hobbies and turning crazy ideas into reality : a few examples would be SFX and artistic makeup, drawing, as well as sewing. I also am currently leanring how to play the guitar !",
       "p4":"I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment is a sub two hours half marathon, and I am training for my first ever full marathon ! It really teaches discipline and rigor."
+    },
+    "projects":{
+      "title" : "Professional Projects",
+      "text":"In this section, you can browse any work that I have done in relation to my studies.",
+      "p1" : "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro."
     },
     "project1": {
       "title": "Project Title",
