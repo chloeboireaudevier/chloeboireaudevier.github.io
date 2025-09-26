@@ -22,7 +22,7 @@
     },
     "projects":{
       "title" : "Professional Projects",
-      "text":"In this section, you can browse any work that I have done in relation to my studies.",
+      "text":"In this section, you can browse work that I have done in relation to my studies.",
       "p1" : "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro."
     },
     "project1": {
