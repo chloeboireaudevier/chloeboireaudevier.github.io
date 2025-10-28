@@ -1,0 +1,42 @@
+Year,Semester,UE,Course Title,ECTS
+Year 1,S3,Algorithmique et Programmation,Algorithmique et Programmation 1,5
+Year 1,S3,Algorithmique et Programmation,Algorithmique et Programmation 2,5
+Year 1,S3,Architecture et Systèmes,Architecture des ordinateurs 1,5
+Year 1,S3,Mathématiques et Modélisation,Mathématiques pour l'informatique,5
+Year 1,S3,Sciences Humaines et Sociales,"Communication, Anglais, EPS",5
+Year 1,S3,Projet Informatique 1,Projet de programmation,5
+Year 1,S4,Algorithmique et Programmation,Structures de données et algorithmique avancée,5
+Year 1,S4,Architecture et Systèmes,Systèmes d’exploitation et réseaux 1,5
+Year 1,S4,Mathématiques et Modélisation,Probabilités et statistiques,5
+Year 1,S4,Sciences Humaines et Sociales,"Anglais, Communication, EPS",5
+Year 1,S4,Projet Informatique 2,Projet de développement logiciel,5
+Year 1,S4,Outils pour l’ingénieur,Introduction à la gestion de projet,5
+Year 2,S5,Systèmes et Réseaux,Systèmes d’exploitation 2 et Réseaux avancés,5
+Year 2,S5,Programmation,Programmation orientée objet et conception logicielle,5
+Year 2,S5,Bases de données,Modélisation et SQL,5
+Year 2,S5,Théorie de l’Information,Codage et compression,5
+Year 2,S5,Mathématiques,Analyse numérique et statistiques,5
+Year 2,S5,SHS,Anglais et communication,5
+Year 2,S6,Projet collectif,Projet d’ingénierie en équipe,10
+Year 2,S6,Option Informatique et Télécommunications,Systèmes répartis et sécurité,5
+Year 2,S6,Option Informatique et Télécommunications,Intelligence artificielle et apprentissage automatique,5
+Year 2,S6,Option Informatique et Télécommunications,Traitement du signal et image,5
+Year 2,S6,SHS,"Anglais, communication et EPS",5
+Year 3,S7,Soft & Human Skills,"Communication professionnelle, anglais LV1, LV2, EPS",5
+Year 3,S7,Réseaux Locaux et de Télécommunication,Réseaux Locaux et Réseaux de Télécommunication,5
+Year 3,S7,Architecture des Ordinateurs,Architecture des ordinateurs avancée,5
+Year 3,S7,Programmation Fonctionnelle et Compilation,"Programmation fonctionnelle, Traduction des langages",5
+Year 3,S7,Systèmes Concurrents et Communicants,"Systèmes concurrents, Intergiciels, Projet Données Réparties",5
+Year 3,S7,Génie du Logiciel et des Systèmes,"Ingénierie dirigée par les modèles, Métaprogrammation et Tests",5
+Year 3,S8,Soft & Human Skills,"Communication professionnelle, LV2, management et entrepreneuriat",5
+Year 3,S8,Applications Concurrentes et Communicantes,"OpenMP, Application Web, Base de données, Projet Web",5
+Year 3,S8,Méthodes Formelles 1,"Systèmes de transition, Vérification par analyse statique",5
+Year 3,S8,Paradigmes Emergents,"Programmation déclarative, Calculabilité",5
+Year 3,S8,Sémantique et Traduction,Sémantique et traduction des langages,5
+Year 3,S8,Rendu et Apprentissage Profond,"Apprentissage profond, Computer Graphics",5
+Year 3,S9,Soft & Human Skills,"Anglais scientifique, communication professionnelle",5
+Year 3,S9,Systèmes Temps Réels,"Systèmes et ordonnancement temps réel, Langage temps réel, Projet IoT Arduino",5
+Year 3,S9,Systèmes Répartis et Sécurité,"Systèmes répartis, Sécurité informatique, Calcul parallèle",5
+Year 3,S9,Raffinement et Méthodes Formelles,Spécifications et développement formel des systèmes complexes,5
+Year 3,S9,Interface d’Accès à l’Information,"Web sémantique, Recherche d’information, IHM, Sûreté de fonctionnement",5
+Year 3,S9,UE à Choix,"Ex : Complex Graph Networks, Cybersecurity, Cloud & Big Data",5
