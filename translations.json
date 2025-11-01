@@ -15,6 +15,7 @@
     },
     "about": {
       "title": "About Me",
+      "text" : "Get to know me !",
       "p1": "I’m a curious learner who loves exploring new technologies and finding creative solutions. After my double degree in computer science and mathematics at Université Toulouse III, I joined ENSEEIHT to pursue a software engineer career ! If you want to know more about me on a professionnal level, feel free to take a look at my CV ! ",
       "seeCv": "View CV",
       "p2": "My love for computer science mostly came from video games. Since I was little, I loved action-adventure and puzzle games ; the Legend of Zelda games being my favorites of all time. I wanted to create games that would move people the way they moved me. Now I enjoy creating any type of software ;)",
@@ -24,17 +25,23 @@
     "projects":{
       "title" : "Professional Projects",
       "text":"In this section, you can browse work that I have done in relation to my studies.",
-      "p1" : "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro."
+      "p1" : "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro.",
+      "p2" : "This e-portfolio is a mandatory project for my Career And Managment (CAM) class ! I did it myself, with a lot of help from ChatGPT for the base of the website, because I have no knowledge of html, css or js. If you want, you can have a look at the repo by clicking below :",
+      "p3" : "A mandatory project from my double degree in mathematics and computer science. We (a group of three strudents) worked on the proof of the <a href='https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox' target='_blank' rel='noopener'>Banach-Tarski Paradox</a>, and did a presentation of part of the proof.",
+      "p4" : "Another univerity project in which we were supposed to answer an axploratory analysis and a prediction related to the Olympics. Our work was focused on the impact of the non-participation of Russia in the Paris 2024 olympics.",
+      "p5" : "A project from my machine learnring course, we were asked to build models that would predict the 03 concentration, and compare our models with predictions made with physics formulas."
     },
-    "project1": {
-      "title": "Project Title",
-      "text": "Short description of your project.",
-      "viewproject": "View Project"
-    },
-    "project2": {
-      "title": "Project Title",
-      "text": "Short description of your project.",
-      "viewproject": "View Project"
+    "persoprojects" : {
+      "title" : "Personal Projects",
+      "text" : "In this section, you can browse fun projects that I did a long time ago, or not in relation to my studies !",
+      "p1Title" : "Blind Cube Trainer",
+      "p1" : "My first ever website ! I used ChatGPT to guide me because I have never done any web development in my studies. It was made for my significant other who needed to learn the letters for <a href='https://jperm.net/bld' target='_blank' rel='noopener'> solving a Rubiks Cube Blindfolded</a>. There is a first pygame version, and a web version that's accessible on all platforms.",
+      "p2Title" : "Brick Braker",
+      "p2" : "Initially a high-school project, I sometimes upgrade it thanks to the skills I aquired during my studies. I might one day start again from scratch. It was my first introduction to Object Oriented Programming (in python) and using pygame !",
+      "p3Title" : "Rock Paper Scissors",
+      "p3" : "Again, this is me experimenting with html, css and js ! Not a very important nor skill-showing project, but it still is something I did ! The ugly colored shapes are here because this is not finished and I needed to see the components :)",
+      "p4Title" : "Advent of code 2024",
+      "p4" : "Not really a project, but a fun way to practice problem-solving ! One of our university teachers was keeping a leaderboard of his students ; and we met at the end and got small prizes based on our progress !"
     },
     "contact": {
       "title": "Contact",
@@ -125,119 +132,129 @@
     "nav": {
       "home": "Accueil",
       "about": "À propos",
-      "projects": "Projets",
+      "projects": "Projets Professionnels",
+      "funProjects": "Projets Personnels",
       "contact": "Contact",
-      "engineeringCourse":"Cursus d'Ingénieur"
+      "engineeringCourse": "Cursus d’Ingénierie"
     },
     "hero": {
       "title": "Bonjour, je suis <span>Chloé</span> !",
-      "subtitle": "Actuellement étudiante à l'ENSEEIHT, j'aimerais devenir ingénrieure logiciel :)",
+      "subtitle": "Actuellement en 2ᵉ année à l’ENSEEIHT, j’étudie pour devenir ingénieure en informatique :)<br> En parcourant cet e-portfolio, vous pourrez en apprendre davantage sur mes études, mon travail, qui je suis et qui je souhaite devenir !",
       "cta": "Voir mes projets"
     },
     "about": {
-        "title": "À propos de moi",
-        "p1": "Je suis une personne curieuse qui aime explorer de nouvelles technologies et trouver des solutions créatives. Après ma double licence Mathématiques Informatique à l'Université Toulouse III, j'ai rejoint l'ENSEEIHT pour poursuivre une carrière d'ingénieure en logiciel ! Si vous voulez en savoir plus sur moi d'un point de vue professionnel, n'hésitez pas à jeter un œil à mon CV !",
-        "seeCv": "Voir le CV",
-        "p2": "Ma passion pour l'informatique vient surtout des jeux vidéo. Depuis que je suis petite, j'adore les jeux d'action-aventure et les jeux d'énigmes ; la saga The Legend of Zelda étant ma favorite. Je voulais créer des jeux qui toucheraient les gens comme ils m'ont touchée. Aujourd'hui, j'apprécie créer tout type de logiciel ;)",
-        "p3": "Je me décrirais comme créative. J'adore essayer de nouveaux loisirs et donner vie à des idées folles : quelques exemples seraient le maquillage artistique et spécialisé dans les effets spéciaux, le dessin, ainsi que la couture. J'apprends également à jouer de la guitare !",
-        "p4": "Je fais aussi de la course à pied ! C'est un excellent moyen pour moi d'évacuer le stress mais aussi de dépasser mes limites ! Pour l'instant, mon plus grand accomplissement est un semi-marathon en moins de deux heures, et je m'entraîne pour mon premier marathon ! Cela m'apprend vraiment la discipline et la rigueur."
+      "title": "À propos de moi",
+      "text" : "Apprennez-en plus sur moi !",
+      "p1": "Je suis une personne curieuse qui aime explorer de nouvelles technologies et trouver des solutions créatives. Après mon double diplôme en informatique et mathématiques à l’Université Toulouse III, j’ai rejoint l’ENSEEIHT pour poursuivre une carrière d’ingénieure en informatique ! Si vous souhaitez en savoir plus sur mon profil professionnel, n’hésitez pas à consulter mon CV !",
+      "seeCv": "Voir le CV",
+      "p2": "Mon amour pour l’informatique vient principalement des jeux vidéo. Depuis toute petite, j’adore les jeux d’action-aventure et de réflexion ; la série The Legend of Zelda reste ma préférée. J’ai voulu créer des jeux capables d’émouvoir les gens comme ils m’ont émue. Aujourd’hui, j’aime créer tout type de logiciel ;)",
+      "p3": "Je me décrirais comme une personne créative. J’aime essayer de nouveaux loisirs et transformer des idées folles en réalité : quelques exemples seraient le maquillage effets spéciaux et artistique, le dessin ou encore la couture. J’apprends aussi actuellement à jouer de la guitare !",
+      "p4": "Je cours aussi ! C’est un excellent moyen pour moi d’évacuer le stress et de me dépasser. Mon plus grand accomplissement pour l’instant est un semi-marathon en moins de deux heures, et je m’entraîne pour mon tout premier marathon complet ! Cela m’apprend la discipline et la rigueur."
     },
-
-    "project1": {
-      "title": "Titre du projet",
-      "text": "Brève description de votre projet.",
-      "viewproject": "Voir le projet"
+    "projects": {
+      "title": "Projets Professionnels",
+      "text": "Dans cette section, vous pouvez découvrir les travaux que j’ai réalisés dans le cadre de mes études.",
+      "p1": "De janvier à juin 2025, j’ai effectué un stage à l’IRIT. J’ai travaillé sur la classification de messages texte dans un contexte de programmation en binôme. Je travaille actuellement sur la rédaction d’un article scientifique résumant mon travail, en vue d’une publication à Didapro.",
+      "p2": "Cet e-portfolio est un projet obligatoire pour ma matière Career And Management (CAM) ! Je l’ai réalisé moi-même, avec beaucoup d’aide de ChatGPT pour la base du site web, car je n’avais aucune connaissance en HTML, CSS ou JS. Si vous le souhaitez, vous pouvez consulter le dépôt en cliquant ci-dessous :",
+      "p3": "Un projet obligatoire de mon double diplôme en mathématiques et informatique. Nous (un groupe de trois étudiants) avons travaillé sur la démonstration du <a href='https://fr.wikipedia.org/wiki/Paradoxe_de_Banach-Tarski' target='_blank' rel='noopener'>paradoxe de Banach-Tarski</a>, et avons présenté une partie de la preuve.",
+      "p4": "Un autre projet universitaire dans lequel nous devions réaliser une analyse exploratoire et une prédiction liées aux Jeux Olympiques. Notre travail portait sur l’impact de la non-participation de la Russie aux JO de Paris 2024.",
+      "p5": "Un projet issu de mon cours d’apprentissage automatique : nous devions construire des modèles capables de prédire la concentration d’O₃, et comparer nos modèles avec des prédictions faites à l’aide de formules physiques."
     },
-    "project2": {
-      "title": "Titre du projet",
-      "text": "Brève description de votre projet.",
-      "viewproject": "Voir le projet"
+    "persoprojects": {
+      "title": "Projets Personnels",
+      "text": "Dans cette section, vous pouvez découvrir des projets amusants que j’ai réalisés il y a longtemps ou en dehors de mes études !",
+      "p1Title": "Blind Cube Trainer",
+      "p1": "Mon tout premier site web ! J’ai utilisé ChatGPT pour me guider, car je n’avais jamais fait de développement web durant mes études. Il a été créé pour mon compagnon, qui devait apprendre les lettres pour <a href='https://jperm.net/bld' target='_blank' rel='noopener'>résoudre un Rubik’s Cube à l’aveugle</a>. Il existe une première version en pygame, ainsi qu’une version web accessible sur toutes les plateformes.",
+      "p2Title": "Casse-briques",
+      "p2": "Projet initialement réalisé au lycée, que j’améliore parfois grâce aux compétences acquises durant mes études. Je recommencerai peut-être de zéro un jour ! C’était ma première introduction à la programmation orientée objet (en Python) et à l’utilisation de pygame !",
+      "p3Title": "Pierre Feuille Ciseaux",
+      "p3": "Encore une fois, une expérimentation avec HTML, CSS et JS ! Ce n’est pas un projet très important ni très démonstratif de compétences, mais c’est tout de même une réalisation personnelle ! Les formes colorées moches sont là car le projet n’est pas terminé et j’avais besoin de visualiser les composants :)",
+      "p4Title": "Advent of Code 2024",
+      "p4": "Pas vraiment un projet, mais une façon amusante de pratiquer la résolution de problèmes ! Un de nos professeurs d’université tenait un classement entre ses étudiants ; nous nous sommes retrouvés à la fin et avons reçu de petits lots selon notre progression !"
     },
     "contact": {
       "title": "Contact",
-      "subtitle": "Restons en contact ! Écrivez-moi à <a href=mailto:boireaudevier.chloe@gmail.com>boireaudevier.chloe@gmail.com</a> ou en cliquant les boutons en dessous !",
-      "emailbutton" : "Mail"
+      "subtitle": "Restons en contact ! Vous pouvez m’écrire à <a href='mailto:boireaudevier.chloe@gmail.com'>boireaudevier.chloe@gmail.com</a> ou en cliquant sur les boutons ci-dessous !",
+      "emailbutton": "M’écrire"
     },
-
     "engineering_course": {
-      "title": "Cursus d'ingénieur",
-      "text": "Découvrez en détail mon parcours en Informatique et Télécommunications à l'ENSEEIHT !",
+      "title": "Cursus d’Ingénierie",
+      "text": "Plongez dans le détail de ma formation d’ingénieure en Informatique et Télécommunications à l’ENSEEIHT !",
       "contents": {
         "title": "Cours",
-        "note": "À noter : comme j’ai intégré l’ENSEEIHT en 2e année, je n’ai pas suivi les cours des semestres 5 et 6 ! Vous pouvez trouver toutes le informations sur le <a href=https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html target='_blank' >site officiel</a>.",
+        "note": "Gardez à l’esprit que, puisque j’ai intégré N7 en 2ᵉ année, je n’ai pas suivi les cours des semestres 5 et 6 ! Vous pouvez retrouver les cours sur le <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' target='_blank'>site officiel</a>.",
         "semester3": "Semestre 3",
         "semester3_classes": [
-          "Algorithmique et Programmation : Algorithmique et Programmation 1 & 2",
-          "Architecture et Systèmes : Architecture des ordinateurs 1",
-          "Mathématiques et Modélisation : Mathématiques pour l'informatique",
-          "Sciences Humaines et Sociales : Communication, Anglais, EPS",
-          "Projet Informatique 1 : Projet de programmation"
+          "Algorithmes et Programmation : Algorithmes et Programmation 1 & 2",
+          "Architecture et Systèmes : Architecture des Ordinateurs 1",
+          "Mathématiques et Modélisation : Mathématiques pour l’informatique",
+          "Sciences Humaines et Sociales : Communication, Anglais, Sport (EPS)",
+          "Projet Informatique 1 : Projet d’initiation à la programmation"
         ],
         "semester4": "Semestre 4",
         "semester4_classes": [
-          "Algorithmique et Programmation : Structures de données et algorithmique avancée",
-          "Architecture et Systèmes : Systèmes d’exploitation et réseaux 1",
-          "Mathématiques et Modélisation : Probabilités et statistiques",
-          "Sciences Humaines et Sociales : Anglais, Communication, EPS",
+          "Algorithmes et Programmation : Structures de données et algorithmes avancés",
+          "Architecture et Systèmes : Systèmes d’exploitation et Réseaux 1",
+          "Mathématiques et Modélisation : Probabilités et Statistiques",
+          "Sciences Humaines et Sociales : Anglais, Communication, Sport (EPS)",
           "Projet Informatique 2 : Projet de développement logiciel",
-          "Outils pour l’ingénieur : Introduction à la gestion de projet"
+          "Outils d’Ingénierie : Introduction à la gestion de projet"
         ],
         "semester5": "Semestre 5",
         "semester5_classes": [
-          "Systèmes et Réseaux : Systèmes d’exploitation 2 et réseaux avancés",
+          "Systèmes et Réseaux : Systèmes d’exploitation 2 et Réseaux avancés",
           "Programmation : Programmation orientée objet et conception logicielle",
           "Bases de Données : Modélisation et SQL",
-          "Théorie de l’Information : Codage et compression",
-          "Mathématiques : Analyse numérique et statistiques",
+          "Théorie de l’Information : Codage et Compression",
+          "Mathématiques : Analyse numérique et Statistiques",
           "Sciences Humaines et Sociales : Anglais et Communication"
         ],
         "semester6": "Semestre 6",
         "semester6_classes": [
           "Projet Collectif : Projet d’ingénierie en équipe",
-          "Options Informatique et Télécom : Systèmes répartis et sécurité, Intelligence artificielle et apprentissage automatique, Traitement du signal et image",
-          "Sciences Humaines et Sociales : Anglais, Communication, EPS"
+          "Options Informatique & Télécom : Systèmes distribués et sécurité, Intelligence Artificielle et Apprentissage Automatique, Traitement du Signal et de l’Image",
+          "Sciences Humaines et Sociales : Anglais, Communication, Sport (EPS)"
         ],
         "semester7": "Semestre 7 — Spécialisation Systèmes Logiciels",
         "semester7_classes": [
-          "Soft & Human Skills : Communication professionnelle, Anglais LV1 & LV2, EPS",
-          "Réseaux Locaux et de Télécommunication : Réseaux Locaux, Réseaux de Télécommunication",
-          "Architecture des Ordinateurs : Architecture avancée des ordinateurs",
-          "Programmation Fonctionnelle et Compilation : Programmation fonctionnelle, Traduction des langages",
-          "Systèmes Concurrents et Communicants : Systèmes concurrents, Intergiciels, Projet Données Réparties",
-          "Génie du Logiciel et des Systèmes : Ingénierie dirigée par les modèles, Métaprogrammation et Tests"
+          "Compétences Humaines : Communication professionnelle, Anglais LV1 & LV2, Sport (EPS)",
+          "Réseaux Locaux et Télécoms : Réseaux Locaux, Réseaux de Télécommunication",
+          "Architecture des Ordinateurs : Architecture avancée",
+          "Programmation Fonctionnelle et Compilation : Programmation fonctionnelle, Traduction de Langages",
+          "Systèmes Concurrents et Communicants : Systèmes concurrents, Middleware, Projet Données Distribuées",
+          "Génie Logiciel et des Systèmes : Ingénierie dirigée par les modèles, Métaprogrammation et Tests"
         ],
         "semester8": "Semestre 8 — Spécialisation Systèmes Logiciels",
         "semester8_classes": [
-          "Soft & Human Skills : Communication, LV2, Management et Entrepreneuriat",
-          "Applications Concurrentes et Communicantes : OpenMP, Application Web, Base de données, Projet Web",
-          "Méthodes Formelles 1 : Systèmes de transition, Vérification par analyse statique",
-          "Paradigmes Émergents : Programmation déclarative, Calculabilité",
-          "Sémantique et Traduction : Sémantique et traduction des langages",
-          "Rendu et Apprentissage Profond : Apprentissage profond, Computer Graphics"
+          "Compétences Douces : Communication, Langue étrangère (LV2), Management & Entrepreneuriat",
+          "Applications Concurrentes et Communicantes : OpenMP, Applications Web, Bases de Données, Projet Web",
+          "Méthodes Formelles 1 : Systèmes de Transition, Vérification par Analyse Statique",
+          "Paradigmes Émergents : Programmation Déclarative, Calculabilité",
+          "Sémantique et Traduction : Sémantique des Langages et Traduction",
+          "Rendu et Deep Learning : Apprentissage Profond, Graphisme Informatique"
         ],
         "semester9": "Semestre 9 — Spécialisation Systèmes Logiciels",
         "semester9_classes": [
-          "Soft & Human Skills : Anglais scientifique, Communication professionnelle",
-          "Systèmes Temps Réels : Ordonnancement temps réel, Langages temps réel, Projet IoT Arduino",
-          "Systèmes Répartis et Sécurité : Systèmes répartis, Sécurité informatique, Calcul parallèle",
-          "Raffinement et Méthodes Formelles : Spécifications formelles, Développement de systèmes complexes",
-          "Interfaces d’Accès à l’Information : Web sémantique, Recherche d’information, IHM, Sûreté de fonctionnement",
-          "UE à Choix : Exemples — Complex Graph Networks, Cybersécurité, Cloud & Big Data"
+          "Compétences Humaines : Anglais Scientifique, Communication Professionnelle",
+          "Systèmes Temps Réel : Ordonnancement, Langages Temps Réel, Projet IoT Arduino",
+          "Systèmes Distribués et Sécurité : Systèmes Distribués, Cybersécurité, Calcul Parallèle",
+          "Raffinement et Méthodes Formelles : Spécification formelle et développement de systèmes complexes",
+          "Interfaces d’Accès à l’Information : Web Sémantique, Recherche d’Information, Interaction Homme-Machine (IHM), Sécurité des Systèmes",
+          "Cours Optionnel : Exemples — Réseaux de Graphes Complexes, Cybersécurité, Cloud & Big Data"
         ],
         "semester10": "Semestre 10 — Stage de fin d’études",
         "semester10_classes": [
-          "Stage de fin d’études : Stage professionnel de 6 mois en entreprise ou en laboratoire de recherche"
+          "Stage de fin d’études : stage professionnel de 6 mois en entreprise ou en laboratoire de recherche"
         ]
       },
-      "mobility" : {
-      "title" : "Mobilité",
-      "note" : "Comme j’ai rejoint N7 en 2e année, je ne suis pas tenu·e de partir à l’étranger (et je ne peux pas faire de semestre d’échange), mais voici mes idées sur les destinations si j’en avais l’opportunité (comme un stage, ou plus tard)."
+      "mobility": {
+        "title": "Mobilité",
+        "note": "Puisque j’ai intégré N7 en 2ᵉ année, je ne suis pas tenue d’effectuer un séjour à l’étranger (et je ne peux pas faire de semestre d’échange). Voici néanmoins mes réflexions sur les endroits où j’aimerais aller si j’en avais l’opportunité (pour un stage ou plus tard)."
       },
-      "civicEngagement" : {
-          "title" : "Engagement citoyen",
-          "note" : "J’ai toujours été très touchée par la question du handicap dans l’éducation, car beaucoup de proches et de membres de ma famille sont en situation de handicap. J’ai été preneuse de notes pour des étudiant·e·s en situation de handicap pendant mes années à l’université, et le papier sur lequel je travaille actuellement avec l’IRIT porte sur l’amélioration de l’éducation."
+      "civicEngagement": {
+        "title": "Engagement Citoyen",
+        "note": "J’ai toujours été très sensible au sujet du handicap dans l’éducation, car plusieurs amis et membres de ma famille sont concernés. J’ai été preneuse de notes pour des étudiants en situation de handicap durant mes années universitaires, et l’article sur lequel je travaille actuellement avec l’IRIT porte sur l’amélioration de l’éducation."
       }
-
     }
   }
 }
