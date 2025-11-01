@@ -8,6 +8,14 @@
     "contact": "Contact",
     "engineeringCourse":"Engineering Course"
     },
+    "buttons" : {
+      "viewRepo" : "View the repo of this project",
+      "viewReport" : "View the report of this project",
+      "viewCollab" : "View the Google Collab file",
+      "viewRepoWeb" : "View the repo of this project (web)",
+      "viewRepoPygame" :"View the repo of this project (Pygame)",
+      "viewPresentation" : "View the presentation of this project"
+    },
     "hero": {
     "title": "Hello, I'm <span>Chloe</span> !",
     "subtitle": "Currently in 2nd year in ENSEEIHT, i'm studying to become a software engineer :)<br> By browsing this e-portfolio, you can learn more about my studies, my work, who I am and who I want to be !",
@@ -25,11 +33,16 @@
     "projects":{
       "title" : "Professional Projects",
       "text":"In this section, you can browse work that I have done in relation to my studies.",
+      "p1Title" : "IRIT Internship",
       "p1" : "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro.",
+      "p2Title" : "E-portfolio",
       "p2" : "This e-portfolio is a mandatory project for my Career And Managment (CAM) class ! I did it myself, with a lot of help from ChatGPT for the base of the website, because I have no knowledge of html, css or js. If you want, you can have a look at the repo by clicking below :",
+      "p3Title" : "Proof of the Banach Tarski Paradox",
       "p3" : "A mandatory project from my double degree in mathematics and computer science. We (a group of three strudents) worked on the proof of the <a href='https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox' target='_blank' rel='noopener'>Banach-Tarski Paradox</a>, and did a presentation of part of the proof.",
+      "p4Title" : "Analysis and prediction of the Olympics",
       "p4" : "Another univerity project in which we were supposed to answer an axploratory analysis and a prediction related to the Olympics. Our work was focused on the impact of the non-participation of Russia in the Paris 2024 olympics.",
-      "p5" : "A project from my machine learnring course, we were asked to build models that would predict the 03 concentration, and compare our models with predictions made with physics formulas."
+      "p5Title" : "Prediction of the ozone concentration",
+      "p5" : "A project from my machine learnring course, we were asked to build models that would predict the O₃ concentration, and compare our models with predictions made with physics formulas."
     },
     "persoprojects" : {
       "title" : "Personal Projects",
@@ -137,6 +150,14 @@
       "contact": "Contact",
       "engineeringCourse": "Cursus d’Ingénierie"
     },
+    "buttons" : {
+      "viewRepo" : "Voir le repo de ce projet",
+      "viewReport" :"Voir le rapport de ce projet",
+      "viewCollab" : "Voir le Google Collab",
+      "viewRepoWeb" : "Voir le repo de ce projet (web)",
+      "viewRepoPygame" :"Voir le repo de ce projet (Pygame)",
+      "viewPresentation" : "Voir la présentation de ce projet"
+    },
     "hero": {
       "title": "Bonjour, je suis <span>Chloé</span> !",
       "subtitle": "Actuellement en 2ᵉ année à l’ENSEEIHT, j’étudie pour devenir ingénieure en informatique :)<br> En parcourant cet e-portfolio, vous pourrez en apprendre davantage sur mes études, mon travail, qui je suis et qui je souhaite devenir !",
@@ -154,10 +175,15 @@
     "projects": {
       "title": "Projets Professionnels",
       "text": "Dans cette section, vous pouvez découvrir les travaux que j’ai réalisés dans le cadre de mes études.",
+      "p1Title" : "Stage à l'IRIT",
       "p1": "De janvier à juin 2025, j’ai effectué un stage à l’IRIT. J’ai travaillé sur la classification de messages texte dans un contexte de programmation en binôme. Je travaille actuellement sur la rédaction d’un article scientifique résumant mon travail, en vue d’une publication à Didapro.",
+      "p2Title" : "E-portfolio",
       "p2": "Cet e-portfolio est un projet obligatoire pour ma matière Career And Management (CAM) ! Je l’ai réalisé moi-même, avec beaucoup d’aide de ChatGPT pour la base du site web, car je n’avais aucune connaissance en HTML, CSS ou JS. Si vous le souhaitez, vous pouvez consulter le dépôt en cliquant ci-dessous :",
+      "p3Title" : "Preuve du Paradoxe de Banach Tarski",
       "p3": "Un projet obligatoire de mon double diplôme en mathématiques et informatique. Nous (un groupe de trois étudiants) avons travaillé sur la démonstration du <a href='https://fr.wikipedia.org/wiki/Paradoxe_de_Banach-Tarski' target='_blank' rel='noopener'>paradoxe de Banach-Tarski</a>, et avons présenté une partie de la preuve.",
+      "p4Title" : "Analyse et prédiction des Jeux Olympiques",
       "p4": "Un autre projet universitaire dans lequel nous devions réaliser une analyse exploratoire et une prédiction liées aux Jeux Olympiques. Notre travail portait sur l’impact de la non-participation de la Russie aux JO de Paris 2024.",
+      "p5Title" : "Prédiction de la concentration d'Ozone",
       "p5": "Un projet issu de mon cours d’apprentissage automatique : nous devions construire des modèles capables de prédire la concentration d’O₃, et comparer nos modèles avec des prédictions faites à l’aide de formules physiques."
     },
     "persoprojects": {
