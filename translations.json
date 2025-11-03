@@ -124,6 +124,20 @@
         "title" : "Civic Engagement",
         "note" : "I was always very moved by the topic of disabilities in education, as a lot of close friends and family are diabled. I was a note taker for diabled students during my univertiry years, and the paper I'm currently working on with IRIT is about bettering education."
       }
+    },
+    "PPP":{
+      "PPT":{
+        "title" :"Power Point Presentation",
+        "note" : "Currently a work in progress ! But you will find my PPP PowerPoint here when it's ready !"
+      },
+      "interviews" : {
+        "title" : "Interviews",
+        "note" : "Work In Progess"
+      },
+      "other" : {
+        "title" : "Other",
+        "note" : "Work In Progess"
+      }
     }
   },
   "fr": {
@@ -250,6 +264,20 @@
       "civicEngagement": {
         "title": "Engagement Citoyen",
         "note": "J’ai toujours été très sensible au sujet du handicap dans l’éducation, car plusieurs amis et membres de ma famille sont concernés. J’ai été preneuse de notes pour des étudiants en situation de handicap durant mes années universitaires, et l’article sur lequel je travaille actuellement avec l’IRIT porte sur l’amélioration de l’éducation."
+      }
+    },
+    "PPP":{
+      "PPT":{
+        "title" :"Présentation Power Point",
+        "note" : "Actuellement en cours de préparation ! Mais vous trouverez ici les transparents du PPP quand ils seront prêts ! "
+      },
+      "interviews" : {
+        "title" : "Interviews",
+        "note" : "En cours"
+      },
+      "other" : {
+        "title" : "Autre",
+        "note" : "En cours"
       }
     }
   }

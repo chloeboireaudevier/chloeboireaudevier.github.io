@@ -389,10 +389,12 @@ label:active {
   color: #ffffff;
   min-width: 150px;
   text-align: center;
-  background-color: #0c5f38;
+  background-color: #093f26;
   box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.3);
-  padding: 10px;
+  padding: 12px;
   margin : 5px;
+  border-radius: 8px;
+  text-decoration: none;
 }
 
 .sub-tabs-container label:active {
@@ -402,7 +404,7 @@ label:active {
 
 
 .sub-tabs-container label:hover {
-  background-color: #60ae8a; 
+  background-color: #0c5f38;
 }
 
 .sub-tabs-container{
