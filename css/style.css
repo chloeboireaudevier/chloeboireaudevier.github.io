@@ -359,3 +359,62 @@ body.dark .nav-links a.active {
   width: auto;
   display: block;
 }
+
+
+
+/*Subtabs*/
+/* Just to give indication that it's being clicked */
+label:active {
+  color: #dce775;
+}
+
+.tab-radio {
+  display: none;
+}
+
+/* Tabs behaviour, hidden if not checked/clicked */
+.sub-tab-content {
+  display: none;
+  margin-top : 20px;
+  border: 1px solid #0c5f38;
+}
+
+.tab-radio:checked + .tab-content,
+.tab-radio:checked + .sub-tab-content {
+  display: block;
+}
+
+/* Sub-tabs */
+.sub-tabs-container label {
+  color: #ffffff;
+  min-width: 150px;
+  text-align: center;
+  background-color: #0c5f38;
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  margin : 5px;
+}
+
+.sub-tabs-container label:active {
+  color: #37474f;
+  box-shadow: 2px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+
+.sub-tabs-container label:hover {
+  background-color: #60ae8a; 
+}
+
+.sub-tabs-container{
+  text-align: center;
+  margin : 10px;
+}
+
+/* Tabs Content */
+.tab-content {
+  padding: 10px;
+  background-color: #f9f9f9;
+  display: none;
+  margin : 5px;
+  /*border: 1px solid #0c5f38;*/
+}

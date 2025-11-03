@@ -17,14 +17,23 @@
     <h1 data-i18n="engineering_course.title">Engineering Course</h1>
     <p data-i18n="engineering_course.text">Dive into the details of my engineering program at ENSEEIHT !</p>
 
-  <section id="engineering_course.contents" class="subsection">
-    <h1 data-i18n="engineering_course.contents.title">Classes</h1>
-    <p data-i18n="engineering_course.contents.note">
-      Keep in mind that because I joined N7 in 2nd year, I did not follow semesters 5 and 6 courses!
-    </p>
-
-    <!-- Semester 5 -->
-    <section class="subsection" id="engineering_course.contents.semester5">
+    <!-- Tab Container 1 -->
+  <input class="tab-radio" id="main-tab-1" name="main-group" type="radio" checked="checked"/>
+  <div class="tab-content">
+    <div class="sub-tabs-container">
+      <label for="sub-tab-1" data-i18n="engineering_course.contents.title"></label>
+      <label for="sub-tab-2" data-i18n="engineering_course.mobility.title" ></label>
+      <label for="sub-tab-3" data-i18n="engineering_course.civicEngagement.title" ></label>
+    </div>
+    <!-- Sub Tab -->
+    <input class="tab-radio" id="sub-tab-1" name="sub-group" type="radio" checked="checked">
+    <div class="sub-tab-content">
+      <section class="subsection" id = "engineering_course.contents">
+      <h1 data-i18n="engineering_course.contents.title">Classes</h1>
+      <p data-i18n="engineering_course.contents.note">
+        Keep in mind that because I joined N7 in 2nd year, I did not follow semesters 5 and 6 courses!
+      </p>
+      <section class="subsection" id="engineering_course.contents.semester5">
       <h2 data-i18n="engineering_course.contents.semester5">Semester 5</h2>
       <ul data-i18n="engineering_course.contents.semester5_classes"></ul>
     </section>
@@ -58,23 +67,26 @@
       <h2 data-i18n="engineering_course.contents.semester10">Semester 10 — Final Year Internship</h2>
       <ul data-i18n="engineering_course.contents.semester10_classes"></ul>
     </section>
-  </section>
-
-
-
-    <section id="engineering_course.mobility" class="subsection">
-    <h1 data-i18n="engineering_course.mobility.title">Mobility</h1>
-    <p data-i18n="engineering_course.mobility.note">Because I joined N7 in 2nd year, I am not required to study abroad (and i cannot do an exchange semester) but here are my thoughts on where to go if I had the opportunity (like an internship, or in the future).</p>
     </section>
+    </div>
+    <!-- Sub Tab -->
+    <input class="tab-radio" id="sub-tab-2" name="sub-group" type="radio">
+    <div class="sub-tab-content">
+      <section id="engineering_course.mobility" class="subsection">
+      <h1 data-i18n="engineering_course.mobility.title">Mobility</h1>
+      <p data-i18n="engineering_course.mobility.note">Because I joined N7 in 2nd year, I am not required to study abroad (and i cannot do an exchange semester) but here are my thoughts on where to go if I had the opportunity (like an internship, or in the future).</p>
+      </section>
+    </div>
 
-    <section id="engineering_course.civicEngagement" class="subsection">
-    <h1 data-i18n="engineering_course.civicEngagement.title">Civic Engagement</h1>
-    <p data-i18n="engineering_course.civicEngagement.note">I was always very moved by the topic of disabilities in education, as a lot of close friends and family are diabled. I was a note taker for diabled students during my univertiry years, and the paper I'm currently working on with IRIT is about bettering education.</p>
-    </section>
-
-    </section>
-
-
+    <!-- Sub Tab -->
+    <input class="tab-radio" id="sub-tab-3" name="sub-group" type="radio">
+    <div class="sub-tab-content">
+      <section id="engineering_course.civicEngagement" class="subsection">
+      <h1 data-i18n="engineering_course.civicEngagement.title">Civic Engagement</h1>
+      <p data-i18n="engineering_course.civicEngagement.note">I was always very moved by the topic of disabilities in education, as a lot of close friends and family are diabled. I was a note taker for diabled students during my univertiry years, and the paper I'm currently working on with IRIT is about bettering education.</p>
+      </section>
+    </div>
+  </div>
 
 </main>
 
