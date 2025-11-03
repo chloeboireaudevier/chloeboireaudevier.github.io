@@ -48,6 +48,7 @@ class Header extends HTMLElement {
             <li><a href="projects.html" data-i18n="nav.projects">Professional Projects</a></li>
             <li><a href="personalProjects.html" data-i18n="nav.personalProjects">Personal Projects</a></li>
             <li><a href="engineering_course.html" data-i18n="nav.engineeringCourse">Engineering Course</a></li>
+            <li><a href="PPP.html" data-i18n="nav.PPP">Professional Project - PPP</a></li>
             <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
           </ul>
           <div class="actions">

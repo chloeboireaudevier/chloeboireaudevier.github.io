@@ -65,70 +65,55 @@
       "title": "Engineering Course",
       "text": "Dive into the details of my Computer Science and Telecommunications engineering program at ENSEEIHT!",
       "contents": {
-        "title": "Classes",
-        "note": "Keep in mind that because I joined N7 in 2nd year, I did not follow semesters 5 and 6 courses! You can find the classes in the <a href=https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html target='_blank' >official site</a>.",
-        "semester3": "Semester 3",
-        "semester3_classes": [
-          "Algorithms and Programming: Algorithms and Programming 1 & 2",
-          "Computer Architecture and Systems: Computer Architecture 1",
-          "Mathematics and Modeling: Mathematics for Computer Science",
-          "Human and Social Sciences: Communication, English, Sports (EPS)",
-          "Computer Project 1: Introductory Programming Project"
-        ],
-        "semester4": "Semester 4",
-        "semester4_classes": [
-          "Algorithms and Programming: Data Structures and Advanced Algorithms",
-          "Computer Architecture and Systems: Operating Systems and Networks 1",
-          "Mathematics and Modeling: Probability and Statistics",
-          "Human and Social Sciences: English, Communication, Sports (EPS)",
-          "Computer Project 2: Software Development Project",
-          "Engineering Tools: Introduction to Project Management"
-        ],
+        "title": "Courses",
+        "note": "Keep in mind that since I joined N7 in the 2nd year, I did not take the courses from semesters 5 and 6! You can find the courses on the <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' target='_blank'>official website</a>.",
         "semester5": "Semester 5",
         "semester5_classes": [
-          "Systems and Networks: Operating Systems 2 and Advanced Networks",
-          "Programming: Object-Oriented Programming and Software Design",
-          "Databases: Modeling and SQL",
-          "Information Theory: Coding and Compression",
-          "Mathematics: Numerical Analysis and Statistics",
-          "Human and Social Sciences: English and Communication"
+          "Soft and Human Skills 1",
+          "Imperative Programming",
+          "Integration and Applications - Probability",
+          "Numerical Analysis and Statistics",
+          "Modeling and Architecture",
+          "Control Theory and Data Analysis"
         ],
         "semester6": "Semester 6",
         "semester6_classes": [
-          "Collective Project: Team Engineering Project",
-          "Computer Science & Telecom Options: Distributed Systems and Security, Artificial Intelligence and Machine Learning, Signal and Image Processing",
-          "Human and Social Sciences: English, Communication, Sports (EPS)"
+          "Networks",
+          "Object Technology",
+          "Architecture and Systems",
+          "Telecommunications and Signal Processing",
+          "Scientific Computing and Machine Learning"
         ],
-        "semester7": "Semester 7 — Software Systems Specialization",
+        "semester7": "Semester 7 — Software Systems Course",
         "semester7_classes": [
-          "Soft & Human Skills: Professional Communication, English LV1 & LV2, Sports (EPS)",
-          "Local and Telecommunications Networks: Local Networks, Telecommunication Networks",
-          "Computer Architecture: Advanced Computer Architecture",
-          "Functional Programming and Compilation: Functional Programming, Language Translation",
-          "Concurrent and Communicating Systems: Concurrent Systems, Middleware, Distributed Data Project",
-          "Software and Systems Engineering: Model-Driven Engineering, Metaprogramming and Testing"
+          "Soft and Human Skills",
+          "Concurrent and Communicating Systems",
+          "Automata and Language Theory, Graph Theory",
+          "Software and Systems Engineering",
+          "Optimization and Operations Research",
+          "Functional Programming"
         ],
-        "semester8": "Semester 8 — Software Systems Specialization",
+        "semester8": "Semester 8 — Software Systems Course",
         "semester8_classes": [
-          "Soft & Human Skills: Communication, Foreign Language (LV2), Management & Entrepreneurship",
-          "Concurrent and Communicating Applications: OpenMP, Web Applications, Databases, Web Project",
-          "Formal Methods 1: Transition Systems, Static Analysis Verification",
-          "Emerging Programming Paradigms: Declarative Programming, Computability",
-          "Semantics and Language Translation: Language Semantics and Translation",
-          "Rendering and Deep Learning: Deep Learning, Computer Graphics"
+          "Soft and Human Skills 4",
+          "Concurrent and Communicating Applications, Databases",
+          "Formal Methods 1",
+          "Emerging Programming Paradigms",
+          "Semantics and Language Translation",
+          "Rendering and Deep Learning"
         ],
-        "semester9": "Semester 9 — Software Systems Specialization",
+        "semester9": "Semester 9 — Software Systems Course",
         "semester9_classes": [
-          "Soft & Human Skills: Scientific English, Professional Communication",
-          "Real-Time Systems: Real-Time Scheduling, Real-Time Languages, IoT Arduino Project",
-          "Distributed Systems and Security: Distributed Systems, Cybersecurity, Parallel Computing",
-          "Refinement and Formal Methods: Formal Specification and Complex Systems Development",
-          "Information Access Interfaces: Semantic Web, Information Retrieval, Human-Computer Interaction (HCI), System Safety",
-          "Elective Course: Examples — Complex Graph Networks, Cybersecurity, Cloud & Big Data"
+          "Human and Social Sciences — Semester 9",
+          "Real-Time Systems (RTS)",
+          "Distributed Systems and Security",
+          "Refinement and Formal Methods",
+          "Information Access Interface",
+          "Elective Course Depending on Specialization"
         ],
-        "semester10": "Semester 10 — Final Year Internship",
+        "semester10": "Semester 10 — Final-Year Internship",
         "semester10_classes": [
-          "Graduation Internship: 6-month professional internship in a company or research lab"
+          "Final-Year Internship: 6-month professional placement in a company or research lab"
         ]
       },
       "mobility" : {
@@ -209,64 +194,49 @@
       "contents": {
         "title": "Cours",
         "note": "Gardez à l’esprit que, puisque j’ai intégré N7 en 2ᵉ année, je n’ai pas suivi les cours des semestres 5 et 6 ! Vous pouvez retrouver les cours sur le <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' target='_blank'>site officiel</a>.",
-        "semester3": "Semestre 3",
-        "semester3_classes": [
-          "Algorithmes et Programmation : Algorithmes et Programmation 1 & 2",
-          "Architecture et Systèmes : Architecture des Ordinateurs 1",
-          "Mathématiques et Modélisation : Mathématiques pour l’informatique",
-          "Sciences Humaines et Sociales : Communication, Anglais, Sport (EPS)",
-          "Projet Informatique 1 : Projet d’initiation à la programmation"
-        ],
-        "semester4": "Semestre 4",
-        "semester4_classes": [
-          "Algorithmes et Programmation : Structures de données et algorithmes avancés",
-          "Architecture et Systèmes : Systèmes d’exploitation et Réseaux 1",
-          "Mathématiques et Modélisation : Probabilités et Statistiques",
-          "Sciences Humaines et Sociales : Anglais, Communication, Sport (EPS)",
-          "Projet Informatique 2 : Projet de développement logiciel",
-          "Outils d’Ingénierie : Introduction à la gestion de projet"
-        ],
         "semester5": "Semestre 5",
         "semester5_classes": [
-          "Systèmes et Réseaux : Systèmes d’exploitation 2 et Réseaux avancés",
-          "Programmation : Programmation orientée objet et conception logicielle",
-          "Bases de Données : Modélisation et SQL",
-          "Théorie de l’Information : Codage et Compression",
-          "Mathématiques : Analyse numérique et Statistiques",
-          "Sciences Humaines et Sociales : Anglais et Communication"
+          "Soft and Human Skills 1",
+          "Programmation impérative",
+          "Intégration et applications - Probabilités",
+          "Analyse numérique et statistiques",
+          "Modélisation et architecture",
+          "Automatique et analyse de données"
         ],
         "semester6": "Semestre 6",
         "semester6_classes": [
-          "Projet Collectif : Projet d’ingénierie en équipe",
-          "Options Informatique & Télécom : Systèmes distribués et sécurité, Intelligence Artificielle et Apprentissage Automatique, Traitement du Signal et de l’Image",
-          "Sciences Humaines et Sociales : Anglais, Communication, Sport (EPS)"
+          "Réseaux",
+          "Technologie objet",
+          "Architecture et systèmes",
+          "Télécommunications et traitement du signal",
+          "Calcul scientifique et apprentissage"
         ],
-        "semester7": "Semestre 7 — Spécialisation Systèmes Logiciels",
+        "semester7": "Semestre 7 — Parcours Systèmes Logiciels",
         "semester7_classes": [
-          "Compétences Humaines : Communication professionnelle, Anglais LV1 & LV2, Sport (EPS)",
-          "Réseaux Locaux et Télécoms : Réseaux Locaux, Réseaux de Télécommunication",
-          "Architecture des Ordinateurs : Architecture avancée",
-          "Programmation Fonctionnelle et Compilation : Programmation fonctionnelle, Traduction de Langages",
-          "Systèmes Concurrents et Communicants : Systèmes concurrents, Middleware, Projet Données Distribuées",
-          "Génie Logiciel et des Systèmes : Ingénierie dirigée par les modèles, Métaprogrammation et Tests"
+          "Soft and Human Skills",
+          "Systèmes Concurrents et communicants",
+          "Théorie des automates et des languages, théorie des graphes",
+          "Génie du logiciel et des systèmes",
+          "Optimisation et R.O.",
+          "Programmation Fonctionnelle"
         ],
-        "semester8": "Semestre 8 — Spécialisation Systèmes Logiciels",
+        "semester8": "Semestre 8 — Parcours Systèmes Logiciels",
         "semester8_classes": [
-          "Compétences Douces : Communication, Langue étrangère (LV2), Management & Entrepreneuriat",
-          "Applications Concurrentes et Communicantes : OpenMP, Applications Web, Bases de Données, Projet Web",
-          "Méthodes Formelles 1 : Systèmes de Transition, Vérification par Analyse Statique",
-          "Paradigmes Émergents : Programmation Déclarative, Calculabilité",
-          "Sémantique et Traduction : Sémantique des Langages et Traduction",
-          "Rendu et Deep Learning : Apprentissage Profond, Graphisme Informatique"
+          "Soft and Human Skills 4",
+          "Applications concurrentes et communicantes, base de données",
+          "Méthodes formelles 1",
+          "Paradigmes émergents de programmation",
+          "Sémantique et traduction des langages",
+          "Rendu et apprentissage profond"
         ],
-        "semester9": "Semestre 9 — Spécialisation Systèmes Logiciels",
+        "semester9": "Semestre 9 — Parcours Systèmes Logiciels",
         "semester9_classes": [
-          "Compétences Humaines : Anglais Scientifique, Communication Professionnelle",
-          "Systèmes Temps Réel : Ordonnancement, Langages Temps Réel, Projet IoT Arduino",
-          "Systèmes Distribués et Sécurité : Systèmes Distribués, Cybersécurité, Calcul Parallèle",
-          "Raffinement et Méthodes Formelles : Spécification formelle et développement de systèmes complexes",
-          "Interfaces d’Accès à l’Information : Web Sémantique, Recherche d’Information, Interaction Homme-Machine (IHM), Sécurité des Systèmes",
-          "Cours Optionnel : Exemples — Réseaux de Graphes Complexes, Cybersécurité, Cloud & Big Data"
+          "SHS SN Semestre 9",
+          "Systèmes temps réels (STR)",
+          "Systèmes répartis et sécurité",
+          "Raffinement et méthodes formelles",
+          "Interface d'accès à l'information",
+          "UE à choix selon finalité"
         ],
         "semester10": "Semestre 10 — Stage de fin d’études",
         "semester10_classes": [
