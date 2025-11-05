@@ -124,7 +124,39 @@ footer {
   border-radius: 5px;
 }
 
-/* Dark mode */
+/*-------------- navbar buttons ----------*/
+
+.btn-navbar {
+  display: inline-block;
+  margin: 0.25rem;
+  padding: 0.5rem 1rem;
+  background: var(--brand-green);
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  border: 1px solid var(--hoover-green);
+  transition: all 0.3s;
+}
+
+.btn-navbar:hover {
+  transform: scale(1.1);
+  background-color: var(--hoover-green);
+  opacity: 0.9;
+}
+
+/*-------------- navbar icon ----------*/
+
+.navbar-icon {
+  transition: all 0.3s;
+}
+
+.navbar-icon:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+
+/* ---------------------  Dark mode  --------------*/
 body.dark {
   background: var(--dark-background);
   color: #ddd;

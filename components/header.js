@@ -40,7 +40,7 @@ class Header extends HTMLElement {
       <link rel="icon" type="image/png" href="/images/leaves.png">
         <nav class="navbar">
           <a href="index.html" class="logo">
-            <img src="images/leaves.png" alt="Logo" />
+            <img src="images/leaves.png" alt="Logo" class="navbar-icon"/>
           </a>
           <ul class="nav-links">
             <li><a href="index.html" data-i18n="nav.home">Home</a></li>
@@ -52,8 +52,8 @@ class Header extends HTMLElement {
             <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
           </ul>
           <div class="actions">
-            <button id="theme-toggle">🌙</button>
-            <button id="lang-toggle">FR</button>
+            <button id="theme-toggle" class="btn-navbar">🌙</button>
+            <button id="lang-toggle" class="btn-navbar">FR</button>
           </div>
         </nav>
       </header>
