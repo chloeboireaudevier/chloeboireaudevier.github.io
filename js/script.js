@@ -52,3 +52,44 @@ if (savedTheme === "dark") {
   const themeBtn = document.getElementById("theme-toggle");
   if (themeBtn) themeBtn.textContent = "☀️";
 }
+
+
+
+
+
+// -------------------- Home page mind map ---------------------
+document.addEventListener('DOMContentLoaded', function() {
+    const center = document.querySelector('.center-node');
+    const nodes = document.querySelectorAll('.node');
+
+    nodes.forEach(node => {
+        const button = node.querySelector('.mindmap-button');
+        button.addEventListener('mouseover', function() {
+            // Animation ou effet visuel au survol
+            this.style.transform = 'scale(1.1)';
+        });
+        button.addEventListener('mouseout', function() {
+            this.style.transform = 'scale(1)';
+        });
+    });
+});
+
+
+/* --------------------- Smooth Scroll for main page ---------------*/
+// Source - https://stackoverflow.com/questions/17722497/scroll-smoothly-to-specific-element-on-page
+// Posted by Sanjay Shr
+// Retrieved 11/5/2025, License - CC-BY-SA 4.0
+
+function smoothScroll(element){
+    const elementExists = document.querySelector(element);
+    if (elementExists)
+      document.querySelector(element).scrollIntoView({
+          behavior: 'smooth'
+    });
+}
+
+const scrollButton = document.querySelector("#scroll-btn");
+
+scrollButton.addEventListener("click", () => {
+  smoothScroll("#MM");
+});

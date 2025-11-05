@@ -37,10 +37,10 @@ class Header extends HTMLElement {
         }
       </style>
       <header>
-      <link rel="icon" type="image/png" href="/images/frog.jpg">
+      <link rel="icon" type="image/png" href="/images/leaves.png">
         <nav class="navbar">
           <a href="index.html" class="logo">
-            <img src="images/frog.jpg" alt="Logo" />
+            <img src="images/leaves.png" alt="Logo" />
           </a>
           <ul class="nav-links">
             <li><a href="index.html" data-i18n="nav.home">Home</a></li>
