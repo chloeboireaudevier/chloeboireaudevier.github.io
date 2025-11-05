@@ -1,72 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chloé Boireau-Devier | PPP</title>
-<link rel="stylesheet" href="css/style.css">
-<script src="components/header.js" type="text/javascript" defer></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-</head>
-<body>
-  <header-component></header-component>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chloé Boireau-Devier | PPP</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="components/header.js" type="text/javascript" defer></script>
+    <script src="components/footer.js" type="text/javascript" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header-component></header-component>
 
-<main>
-  <section id="PPP" class="section">
-    <h1 data-i18n="PPP.title">Professional Project - PPP</h1>
-    <p data-i18n="PPP.subtitle">
-      Find here everything you need to understand my professional project !
-    </p>
+    <main>
+      <section id="PPP" class="section">
+        <h1 data-i18n="PPP.title">Professional Project - PPP</h1>
+        <p data-i18n="PPP.subtitle">
+          Find here everything you need to understand my professional project !
+        </p>
 
-     <!-- Tab Container  -->
-  <input class="tab-radio" id="main-tab-1" name="main-group" type="radio" checked="checked"/>
-  <div class="tab-content">
-    <div class="sub-tabs-container">
-      <label for="sub-tab-1" data-i18n="PPP.PPT.title"></label>
-      <label for="sub-tab-2" data-i18n="PPP.interviews.title" ></label>
-      <label for="sub-tab-3" data-i18n="PPP.other.title" ></label>
-    </div>
-    <!-- Sub Tab -->
-    <input class="tab-radio" id="sub-tab-1" name="sub-group" type="radio" checked="checked">
-    <div class="sub-tab-content">
-      <section class="subsection" id = "PPP.PPT">
-      <h1 data-i18n="PPP.PPT.title"></h1>
-      <p data-i18n="PPP.PPT.note"></p>
-    </section>
-    </div>
-    <!-- Sub Tab -->
-    <input class="tab-radio" id="sub-tab-2" name="sub-group" type="radio">
-    <div class="sub-tab-content">
-      <section id="PPP.interviews" class="subsection">
-      <h1 data-i18n="PPP.interviews.title"></h1>
-      <p data-i18n="PPP.interviews.note"></p>
+        <!-- Tab Container  -->
+        <input
+          class="tab-radio"
+          id="main-tab-1"
+          name="main-group"
+          type="radio"
+          checked="checked"
+        />
+        <div class="tab-content">
+          <div class="sub-tabs-container">
+            <label for="sub-tab-1" data-i18n="PPP.PPT.title"></label>
+            <label for="sub-tab-2" data-i18n="PPP.interviews.title"></label>
+            <label for="sub-tab-3" data-i18n="PPP.other.title"></label>
+          </div>
+          <!-- Sub Tab -->
+          <input
+            class="tab-radio"
+            id="sub-tab-1"
+            name="sub-group"
+            type="radio"
+            checked="checked"
+          />
+          <div class="sub-tab-content">
+            <section class="subsection" id="PPP.PPT">
+              <h1 data-i18n="PPP.PPT.title"></h1>
+              <p data-i18n="PPP.PPT.note"></p>
+            </section>
+          </div>
+          <!-- Sub Tab -->
+          <input
+            class="tab-radio"
+            id="sub-tab-2"
+            name="sub-group"
+            type="radio"
+          />
+          <div class="sub-tab-content">
+            <section id="PPP.interviews" class="subsection">
+              <h1 data-i18n="PPP.interviews.title"></h1>
+              <p data-i18n="PPP.interviews.note"></p>
+            </section>
+          </div>
+
+          <!-- Sub Tab -->
+          <input
+            class="tab-radio"
+            id="sub-tab-3"
+            name="sub-group"
+            type="radio"
+          />
+          <div class="sub-tab-content">
+            <section id="PPP.other" class="subsection">
+              <h1 data-i18n="PPP.other.title"></h1>
+              <p data-i18n="PPP.other.note"></p>
+              <p></p>
+            </section>
+          </div>
+        </div>
       </section>
-    </div>
+    </main>
 
-    <!-- Sub Tab -->
-    <input class="tab-radio" id="sub-tab-3" name="sub-group" type="radio">
-    <div class="sub-tab-content">
-      <section id="PPP.other" class="subsection">
-      <h1 data-i18n="PPP.other.title"></h1>
-      <p data-i18n="PPP.other.note"><p>
-      </section>
-    </div>
-  </div>
+    <footer-component></footer-component>
 
-
-
-
-
-
-  </section>
-</main>
-
-
-
-  <footer>
-  <p>&copy; 2025 Chloé Boireau-Devier</p>
-</footer>
-
-<script src="js/script.js"></script>
-</body>
+    <script src="js/script.js"></script>
+  </body>
 </html>

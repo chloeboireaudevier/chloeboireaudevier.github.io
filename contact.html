@@ -1,48 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chloé Boireau-Devier | Contact</title>
-<link rel="stylesheet" href="css/style.css">
-<script src="components/header.js" type="text/javascript" defer></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-</head>
-<body>
-  <header-component></header-component>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chloé Boireau-Devier | Contact</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="components/header.js" type="text/javascript" defer></script>
+    <script src="components/footer.js" type="text/javascript" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header-component></header-component>
 
-<main>
-  <section id="contact" class="section">
-    <h1 data-i18n="contact.title">Contact</h1>
-    <p data-i18n="contact.subtitle">
-      Let’s connect! Reach me at <a href=mailto:boireaudevier.chloe@gmail.com>boireaudevier.chloe@gmail.com</a> or by clicking the buttons below !
-    </p>
+    <main>
+      <section id="contact" class="section">
+        <h1 data-i18n="contact.title">Contact</h1>
+        <p data-i18n="contact.subtitle">
+          Let’s connect! Reach me at
+          <a href="mailto:boireaudevier.chloe@gmail.com"
+            >boireaudevier.chloe@gmail.com</a
+          >
+          or by clicking the buttons below !
+        </p>
 
-    <div class="contact-buttons">
-      <!-- Email -->
-      <a href="mailto:boireaudevier.chloe@gmail.com" class="contact-btn" data-i18n="contact.emailbutton" >
-        <i class="fas fa-envelope"></i> Email Me
-      </a>
+        <div class="contact-buttons-container">
+          <!-- Email -->
+          <a
+            href="mailto:boireaudevier.chloe@gmail.com"
+            class="btn"
+            data-i18n="contact.emailbutton"
+          >
+            <i class="fas fa-envelope"></i> Email Me
+          </a>
 
-      <!-- GitHub -->
-      <a href="https://github.com/chloeboireaudevier" target="_blank" class="contact-btn">
-        <i class="fab fa-github"></i> GitHub
-      </a>
+          <!-- GitHub -->
+          <a
+            href="https://github.com/chloeboireaudevier"
+            target="_blank"
+            class="btn"
+          >
+            <i class="fab fa-github"></i> GitHub
+          </a>
 
-      <!-- LinkedIn -->
-      <a href="https://www.linkedin.com/in/chlo%C3%A9-boireau-devier-614472383/" target="_blank" class="contact-btn">
-        <i class="fab fa-linkedin"></i> LinkedIn
-      </a>
-    </div>
-  </section>
-</main>
+          <!-- LinkedIn -->
+          <a
+            href="https://www.linkedin.com/in/chlo%C3%A9-boireau-devier-614472383/"
+            target="_blank"
+            class="btn"
+          >
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+        </div>
+      </section>
+    </main>
 
-
-
-  <footer>
-  <p>&copy; 2025 Chloé Boireau-Devier</p>
-</footer>
-
-<script src="js/script.js"></script>
-</body>
+    <footer-component></footer-component>
+    <script src="js/script.js"></script>
+  </body>
 </html>

@@ -1,64 +1,65 @@
 {
-"en": {
+  "en": {
     "nav": {
-    "home": "Home",
-    "about": "About",
-    "projects": "Professional Projects",
-    "funProjects" : "Personnal Projects",
-    "contact": "Contact",
-    "engineeringCourse":"Engineering Course"
+      "home": "Home",
+      "about": "About",
+      "projects": "Professional Projects",
+      "funProjects": "Personnal Projects",
+      "contact": "Contact",
+      "engineeringCourse": "Engineering Course",
+      "PPP": "Professional Project - PPP"
     },
-    "buttons" : {
-      "viewRepo" : "View the repo of this project",
-      "viewReport" : "View the report of this project",
-      "viewCollab" : "View the Google Collab file",
-      "viewRepoWeb" : "View the repo of this project (web)",
-      "viewRepoPygame" :"View the repo of this project (Pygame)",
-      "viewPresentation" : "View the presentation of this project"
+    "buttons": {
+      "viewRepo": "View the repo of this project",
+      "viewReport": "View the report of this project",
+      "viewCollab": "View the Google Collab file",
+      "viewRepoWeb": "View the repo of this project (web)",
+      "viewRepoPygame": "View the repo of this project (Pygame)",
+      "viewPresentation": "View the presentation of this project"
     },
     "index": {
-    "title": "Hello, I'm <span>Chloe</span> !",
-    "subtitle": "Currently in 2nd year in ENSEEIHT, i'm studying to become a software engineer :)<br> By browsing this e-portfolio, you can learn more about my studies, my work, who I am and who I want to be !",
-    "hero-button" : "Discover the website"
+      "title": "Hello, I'm <span>Chloe</span> !",
+      "subtitle": "Currently in 2nd year in ENSEEIHT, i'm studying to become a software engineer :)<br> By browsing this e-portfolio, you can learn more about my studies, my work, who I am and who I want to be !",
+      "hero-button": "Discover the website"
     },
     "about": {
       "title": "About Me",
-      "text" : "Get to know me !",
+      "text": "Get to know me !",
       "p1": "I’m a curious learner who loves exploring new technologies and finding creative solutions. After my double degree in computer science and mathematics at Université Toulouse III, I joined ENSEEIHT to pursue a software engineer career ! If you want to know more about me on a professionnal level, feel free to take a look at my CV ! ",
       "seeCv": "View CV",
       "p2": "My love for computer science mostly came from video games. Since I was little, I loved action-adventure and puzzle games ; the Legend of Zelda games being my favorites of all time. I wanted to create games that would move people the way they moved me. Now I enjoy creating any type of software ;)",
       "p3": "I would describle myself as creative. I love trying new hobbies and turning crazy ideas into reality : a few examples would be SFX and artistic makeup, drawing, as well as sewing. I also am currently leanring how to play the guitar !",
-      "p4":"I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment is a sub two hours half marathon, and I am training for my first ever full marathon ! It really teaches discipline and rigor."
+      "p4": "I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment is a sub two hours half marathon, and I am training for my first ever full marathon ! It really teaches discipline and rigor."
     },
-    "projects":{
-      "title" : "Professional Projects",
-      "text":"In this section, you can browse work that I have done in relation to my studies.",
-      "p1Title" : "IRIT Internship",
-      "p1" : "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro.",
-      "p2Title" : "E-portfolio",
-      "p2" : "This e-portfolio is a mandatory project for my Career And Managment (CAM) class ! I did it myself, with a lot of help from ChatGPT for the base of the website, because I have no knowledge of html, css or js. If you want, you can have a look at the repo by clicking below :",
-      "p3Title" : "Proof of the Banach Tarski Paradox",
-      "p3" : "A mandatory project from my double degree in mathematics and computer science. We (a group of three strudents) worked on the proof of the <a href='https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox' target='_blank' rel='noopener'>Banach-Tarski Paradox</a>, and did a presentation of part of the proof.",
-      "p4Title" : "Analysis and prediction of the Olympics",
-      "p4" : "Another univerity project in which we were supposed to answer an axploratory analysis and a prediction related to the Olympics. Our work was focused on the impact of the non-participation of Russia in the Paris 2024 olympics.",
-      "p5Title" : "Prediction of the ozone concentration",
-      "p5" : "A project from my machine learnring course, we were asked to build models that would predict the O₃ concentration, and compare our models with predictions made with physics formulas."
+    "projects": {
+      "title": "Professional Projects",
+      "text": "In this section, you can browse work that I have done in relation to my studies.",
+      "p1Title": "IRIT Internship",
+      "p1": "From january to june 2025, I did an internship at IRIT. I worked on classifying text messages in the pair-programming context. I am currently working on writing a scientific article summing up my work, to publish it at Didapro.",
+      "p2Title": "E-portfolio",
+      "p2": "This e-portfolio is a mandatory project for my Career And Managment (CAM) class ! I did it myself, with a lot of help from ChatGPT for the base of the website, because I have no knowledge of html, css or js. If you want, you can have a look at the repo by clicking below :",
+      "p3Title": "Proof of the Banach Tarski Paradox",
+      "p3": "A mandatory project from my double degree in mathematics and computer science. We (a group of three strudents) worked on the proof of the <a href='https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox' class='link' target='_blank' rel='noopener'>Banach-Tarski Paradox</a>, and did a presentation of part of the proof.",
+      "p4Title": "Analysis and prediction of the Olympics",
+      "p4": "Another univerity project in which we were supposed to answer an axploratory analysis and a prediction related to the Olympics. Our work was focused on the impact of the non-participation of Russia in the Paris 2024 olympics.",
+      "p5Title": "Prediction of the ozone concentration",
+      "p5": "A project from my machine learnring course, we were asked to build models that would predict the O₃ concentration, and compare our models with predictions made with physics formulas."
     },
-    "persoprojects" : {
-      "title" : "Personal Projects",
-      "text" : "In this section, you can browse fun projects that I did a long time ago, or not in relation to my studies !",
-      "p1Title" : "Blind Cube Trainer",
-      "p1" : "My first ever website ! I used ChatGPT to guide me because I have never done any web development in my studies. It was made for my significant other who needed to learn the letters for <a href='https://jperm.net/bld' target='_blank' rel='noopener'> solving a Rubiks Cube Blindfolded</a>. There is a first pygame version, and a web version that's accessible on all platforms.",
-      "p2Title" : "Brick Braker",
-      "p2" : "Initially a high-school project, I sometimes upgrade it thanks to the skills I aquired during my studies. I might one day start again from scratch. It was my first introduction to Object Oriented Programming (in python) and using pygame !",
-      "p3Title" : "Rock Paper Scissors",
-      "p3" : "Again, this is me experimenting with html, css and js ! Not a very important nor skill-showing project, but it still is something I did ! The ugly colored shapes are here because this is not finished and I needed to see the components :)",
-      "p4Title" : "Advent of code 2024",
-      "p4" : "Not really a project, but a fun way to practice problem-solving ! One of our university teachers was keeping a leaderboard of his students ; and we met at the end and got small prizes based on our progress !"
+    "persoprojects": {
+      "title": "Personal Projects",
+      "text": "In this section, you can browse fun projects that I did a long time ago, or not in relation to my studies !",
+      "p1Title": "Blind Cube Trainer",
+      "p1": "My first ever website ! I used ChatGPT to guide me because I have never done any web development in my studies. It was made for my significant other who needed to learn the letters for <a href='https://jperm.net/bld' target='_blank'  class='link'  rel='noopener'> solving a Rubiks Cube Blindfolded</a>. There is a first pygame version, and a web version that's accessible on all platforms.",
+      "p2Title": "Brick Braker",
+      "p2": "Initially a high-school project, I sometimes upgrade it thanks to the skills I aquired during my studies. I might one day start again from scratch. It was my first introduction to Object Oriented Programming (in python) and using pygame !",
+      "p3Title": "Rock Paper Scissors",
+      "p3": "Again, this is me experimenting with html, css and js ! Not a very important nor skill-showing project, but it still is something I did ! The ugly colored shapes are here because this is not finished and I needed to see the components :)",
+      "p4Title": "Advent of code 2024",
+      "p4": "Not really a project, but a fun way to practice problem-solving ! One of our university teachers was keeping a leaderboard of his students ; and we met at the end and got small prizes based on our progress !"
     },
     "contact": {
       "title": "Contact",
-      "subtitle": "Let’s connect! Reach me at <a href=mailto:boireaudevier.chloe@gmail.com>boireaudevier.chloe@gmail.com</a> or by clicking the buttons below !",
+      "subtitle": "Let’s connect! Reach me at <a href=mailto:boireaudevier.chloe@gmail.com class='link'>boireaudevier.chloe@gmail.com</a> or by clicking the buttons below !",
       "emailbutton": "<i class='fas fa-envelope'></i> Email Me"
     },
     "engineering_course": {
@@ -66,7 +67,7 @@
       "text": "Dive into the details of my Computer Science and Telecommunications engineering program at ENSEEIHT!",
       "contents": {
         "title": "Courses",
-        "note": "Keep in mind that since I joined N7 in the 2nd year, I did not take the courses from semesters 5 and 6! You can find the courses on the <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' target='_blank'>official website</a>.",
+        "note": "Keep in mind that since I joined N7 in the 2nd year, I did not take the courses from semesters 5 and 6! You can find the courses on the <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' class='link' target='_blank'>official website</a>.",
         "semester5": "Semester 5",
         "semester5_classes": [
           "Soft and Human Skills 1",
@@ -116,27 +117,29 @@
           "Final-Year Internship: 6-month professional placement in a company or research lab"
         ]
       },
-      "mobility" : {
-        "title" : "Mobility",
-        "note" : "Because I joined N7 in 2nd year, I am not required to study abroad (and i cannot do an exchange semester) but here are my thoughts on where to go if I had the opportunity (like an internship, or in the future)."
+      "mobility": {
+        "title": "Mobility",
+        "note": "Because I joined N7 in 2nd year, I am not required to study abroad (and i cannot do an exchange semester) but here are my thoughts on where to go if I had the opportunity (like an internship, or in the future)."
       },
-      "civicEngagement" : {
-        "title" : "Civic Engagement",
-        "note" : "I was always very moved by the topic of disabilities in education, as a lot of close friends and family are diabled. I was a note taker for diabled students during my univertiry years, and the paper I'm currently working on with IRIT is about bettering education."
+      "civicEngagement": {
+        "title": "Civic Engagement",
+        "note": "I was always very moved by the topic of disabilities in education, as a lot of close friends and family are diabled. I was a note taker for diabled students during my univertiry years, and the paper I'm currently working on with IRIT is about bettering education."
       }
     },
-    "PPP":{
-      "PPT":{
-        "title" :"Power Point Presentation",
-        "note" : "Currently a work in progress ! But you will find my PPP PowerPoint here when it's ready !"
+    "PPP": {
+      "title": "Professional Project - PPP",
+      "subtitle": "Find here everything you need to understand my professional project !",
+      "PPT": {
+        "title": "Power Point Presentation",
+        "note": "Currently a work in progress ! But you will find my PPP PowerPoint here when it's ready !"
       },
-      "interviews" : {
-        "title" : "Interviews",
-        "note" : "Work In Progess"
+      "interviews": {
+        "title": "Interviews",
+        "note": "Work In Progess"
       },
-      "other" : {
-        "title" : "Other",
-        "note" : "Work In Progess"
+      "other": {
+        "title": "Other",
+        "note": "Work In Progess"
       }
     }
   },
@@ -147,24 +150,25 @@
       "projects": "Projets Professionnels",
       "funProjects": "Projets Personnels",
       "contact": "Contact",
-      "engineeringCourse": "Cursus d’Ingénierie"
+      "engineeringCourse": "Cursus d’Ingénierie",
+      "PPP": "Projet Professionnel - PPP"
     },
-    "buttons" : {
-      "viewRepo" : "Voir le repo de ce projet",
-      "viewReport" :"Voir le rapport de ce projet",
-      "viewCollab" : "Voir le Google Collab",
-      "viewRepoWeb" : "Voir le repo de ce projet (web)",
-      "viewRepoPygame" :"Voir le repo de ce projet (Pygame)",
-      "viewPresentation" : "Voir la présentation de ce projet"
+    "buttons": {
+      "viewRepo": "Voir le repo de ce projet",
+      "viewReport": "Voir le rapport de ce projet",
+      "viewCollab": "Voir le Google Collab",
+      "viewRepoWeb": "Voir le repo de ce projet (web)",
+      "viewRepoPygame": "Voir le repo de ce projet (Pygame)",
+      "viewPresentation": "Voir la présentation de ce projet"
     },
     "index": {
       "title": "Bonjour, je suis <span>Chloé</span> !",
       "subtitle": "Actuellement en 2ᵉ année à l’ENSEEIHT, j’étudie pour devenir ingénieure en informatique :)<br> En parcourant cet e-portfolio, vous pourrez en apprendre davantage sur mes études, mon travail, qui je suis et qui je souhaite devenir !",
-      "hero-button" : "Explorer le site"
+      "hero-button": "Explorer le site"
     },
     "about": {
       "title": "À propos de moi",
-      "text" : "Apprennez-en plus sur moi !",
+      "text": "Apprennez-en plus sur moi !",
       "p1": "Je suis une personne curieuse qui aime explorer de nouvelles technologies et trouver des solutions créatives. Après mon double diplôme en informatique et mathématiques à l’Université Toulouse III, j’ai rejoint l’ENSEEIHT pour poursuivre une carrière d’ingénieure en informatique ! Si vous souhaitez en savoir plus sur mon profil professionnel, n’hésitez pas à consulter mon CV !",
       "seeCv": "Voir le CV",
       "p2": "Mon amour pour l’informatique vient principalement des jeux vidéo. Depuis toute petite, j’adore les jeux d’action-aventure et de réflexion ; la série The Legend of Zelda reste ma préférée. J’ai voulu créer des jeux capables d’émouvoir les gens comme ils m’ont émue. Aujourd’hui, j’aime créer tout type de logiciel ;)",
@@ -174,22 +178,22 @@
     "projects": {
       "title": "Projets Professionnels",
       "text": "Dans cette section, vous pouvez découvrir les travaux que j’ai réalisés dans le cadre de mes études.",
-      "p1Title" : "Stage à l'IRIT",
+      "p1Title": "Stage à l'IRIT",
       "p1": "De janvier à juin 2025, j’ai effectué un stage à l’IRIT. J’ai travaillé sur la classification de messages texte dans un contexte de programmation en binôme. Je travaille actuellement sur la rédaction d’un article scientifique résumant mon travail, en vue d’une publication à Didapro.",
-      "p2Title" : "E-portfolio",
+      "p2Title": "E-portfolio",
       "p2": "Cet e-portfolio est un projet obligatoire pour ma matière Career And Management (CAM) ! Je l’ai réalisé moi-même, avec beaucoup d’aide de ChatGPT pour la base du site web, car je n’avais aucune connaissance en HTML, CSS ou JS. Si vous le souhaitez, vous pouvez consulter le dépôt en cliquant ci-dessous :",
-      "p3Title" : "Preuve du Paradoxe de Banach Tarski",
-      "p3": "Un projet obligatoire de mon double diplôme en mathématiques et informatique. Nous (un groupe de trois étudiants) avons travaillé sur la démonstration du <a href='https://fr.wikipedia.org/wiki/Paradoxe_de_Banach-Tarski' target='_blank' rel='noopener'>paradoxe de Banach-Tarski</a>, et avons présenté une partie de la preuve.",
-      "p4Title" : "Analyse et prédiction des Jeux Olympiques",
+      "p3Title": "Preuve du Paradoxe de Banach Tarski",
+      "p3": "Un projet obligatoire de mon double diplôme en mathématiques et informatique. Nous (un groupe de trois étudiants) avons travaillé sur la démonstration du <a href='https://fr.wikipedia.org/wiki/Paradoxe_de_Banach-Tarski' class='link' target='_blank' rel='noopener'>paradoxe de Banach-Tarski</a>, et avons présenté une partie de la preuve.",
+      "p4Title": "Analyse et prédiction des Jeux Olympiques",
       "p4": "Un autre projet universitaire dans lequel nous devions réaliser une analyse exploratoire et une prédiction liées aux Jeux Olympiques. Notre travail portait sur l’impact de la non-participation de la Russie aux JO de Paris 2024.",
-      "p5Title" : "Prédiction de la concentration d'Ozone",
+      "p5Title": "Prédiction de la concentration d'Ozone",
       "p5": "Un projet issu de mon cours d’apprentissage automatique : nous devions construire des modèles capables de prédire la concentration d’O₃, et comparer nos modèles avec des prédictions faites à l’aide de formules physiques."
     },
     "persoprojects": {
       "title": "Projets Personnels",
       "text": "Dans cette section, vous pouvez découvrir des projets amusants que j’ai réalisés il y a longtemps ou en dehors de mes études !",
       "p1Title": "Blind Cube Trainer",
-      "p1": "Mon tout premier site web ! J’ai utilisé ChatGPT pour me guider, car je n’avais jamais fait de développement web durant mes études. Il a été créé pour mon compagnon, qui devait apprendre les lettres pour <a href='https://jperm.net/bld' target='_blank' rel='noopener'>résoudre un Rubik’s Cube à l’aveugle</a>. Il existe une première version en pygame, ainsi qu’une version web accessible sur toutes les plateformes.",
+      "p1": "Mon tout premier site web ! J’ai utilisé ChatGPT pour me guider, car je n’avais jamais fait de développement web durant mes études. Il a été créé pour mon compagnon, qui devait apprendre les lettres pour <a href='https://jperm.net/bld' target='_blank' class='link'  rel='noopener'>résoudre un Rubik’s Cube à l’aveugle</a>. Il existe une première version en pygame, ainsi qu’une version web accessible sur toutes les plateformes.",
       "p2Title": "Casse-briques",
       "p2": "Projet initialement réalisé au lycée, que j’améliore parfois grâce aux compétences acquises durant mes études. Je recommencerai peut-être de zéro un jour ! C’était ma première introduction à la programmation orientée objet (en Python) et à l’utilisation de pygame !",
       "p3Title": "Pierre Feuille Ciseaux",
@@ -199,7 +203,7 @@
     },
     "contact": {
       "title": "Contact",
-      "subtitle": "Restons en contact ! Vous pouvez m’écrire à <a href='mailto:boireaudevier.chloe@gmail.com'>boireaudevier.chloe@gmail.com</a> ou en cliquant sur les boutons ci-dessous !",
+      "subtitle": "Restons en contact ! Vous pouvez m’écrire à <a href='mailto:boireaudevier.chloe@gmail.com' class='link' >boireaudevier.chloe@gmail.com</a> ou en cliquant sur les boutons ci-dessous !",
       "emailbutton": "<i class='fas fa-envelope'></i> M'écrire"
     },
     "engineering_course": {
@@ -207,7 +211,7 @@
       "text": "Plongez dans le détail de ma formation d’ingénieure en Informatique et Télécommunications à l’ENSEEIHT !",
       "contents": {
         "title": "Cours",
-        "note": "Gardez à l’esprit que, puisque j’ai intégré N7 en 2ᵉ année, je n’ai pas suivi les cours des semestres 5 et 6 ! Vous pouvez retrouver les cours sur le <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' target='_blank'>site officiel</a>.",
+        "note": "Gardez à l’esprit que, puisque j’ai intégré N7 en 2ᵉ année, je n’ai pas suivi les cours des semestres 5 et 6 ! Vous pouvez retrouver les cours sur le <a href='https://formations.enseeiht.fr/enseeiht/fr/index/diplome-d-ingenieur-FI/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WPP/ingenieur-enseeiht-informatique-et-telecommunications-M34Z6WXB.html' class='link' target='_blank'>site officiel</a>.",
         "semester5": "Semestre 5",
         "semester5_classes": [
           "Soft and Human Skills 1",
@@ -266,18 +270,20 @@
         "note": "J’ai toujours été très sensible au sujet du handicap dans l’éducation, car plusieurs amis et membres de ma famille sont concernés. J’ai été preneuse de notes pour des étudiants en situation de handicap durant mes années universitaires, et l’article sur lequel je travaille actuellement avec l’IRIT porte sur l’amélioration de l’éducation."
       }
     },
-    "PPP":{
-      "PPT":{
-        "title" :"Présentation Power Point",
-        "note" : "Actuellement en cours de préparation ! Mais vous trouverez ici les transparents du PPP quand ils seront prêts ! "
+    "PPP": {
+      "title": "Projet Professionnel - PPP",
+      "subtitle": "Trouvez ici tout ce dont vous avez besoin pour comprendre mon projet professionnel !",
+      "PPT": {
+        "title": "Présentation Power Point",
+        "note": "Actuellement en cours de préparation ! Mais vous trouverez ici les transparents du PPP quand ils seront prêts ! "
       },
-      "interviews" : {
-        "title" : "Interviews",
-        "note" : "En cours"
+      "interviews": {
+        "title": "Interviews",
+        "note": "En cours"
       },
-      "other" : {
-        "title" : "Autre",
-        "note" : "En cours"
+      "other": {
+        "title": "Autre",
+        "note": "En cours"
       }
     }
   }

@@ -1,72 +1,79 @@
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Chloé Boireau-Devier | About</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css" />
     <script src="components/header.js" type="text/javascript" defer></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    </head>
-    <body>
+    <script src="components/footer.js" type="text/javascript" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+  <body>
     <header-component></header-component>
 
     <main>
-  <section id="about" class="section">
-    <h2 data-i18n="about.title">About Me</h2>
-    <p data-i18n="about.text">Get to know me !</p>
+      <section id="about" class="section">
+        <h2 data-i18n="about.title">About Me</h2>
+        <p data-i18n="about.text">Get to know me !</p>
 
-    <!-- Personality aspect 1 -->
-    <div class="about-item">
-      <div class="about-text">
-        <p data-i18n="about.p1"></p>
-        <a href="assets/CV N7 Chloe BOIREAU DEVIER-4.pdf" target="_blank" rel="noopener" class="contact-btn cv" data-i18n="about.seeCv">
-        View CV
-        </a>
-      </div>
-      <div class="about-image">
-        <img src="images/formal_picture_2025.jpg" alt="Chloe_formal">
-      </div>
-    </div>
+        <!-- Personality aspect 1 -->
+        <div class="shifting-item">
+          <div class="shifting-text">
+            <p data-i18n="about.p1"></p>
+            <a
+              href="assets/CV N7 Chloe BOIREAU DEVIER-4.pdf"
+              target="_blank"
+              rel="noopener"
+              class="btn"
+              data-i18n="about.seeCv"
+            >
+              View CV
+            </a>
+          </div>
+          <div class="shifting-image">
+            <img src="images/formal_picture_2025.jpg" alt="Chloe_formal" />
+          </div>
+        </div>
 
-    <!-- Personality aspect 2 -->
-    <div class="about-item reverse">
-      <div class="about-text">
-        <p data-i18n="about.p2"></p>
-      </div>
-      <div class="about-image">
-        <img src="images/zelda_puzzle.jpg" alt="Zelda puzzle">
-      </div>
-    </div>
+        <!-- Personality aspect 2 -->
+        <div class="shifting-item reverse">
+          <div class="shifting-text">
+            <p data-i18n="about.p2"></p>
+          </div>
+          <div class="shifting-image">
+            <img src="images/zelda_puzzle.jpg" alt="Zelda puzzle" />
+          </div>
+        </div>
 
-    <!-- Personality aspect 3 -->
-    <div class="about-item">
-      <div class="about-text">
-        <p data-i18n="about.p3"></p>
-      </div>
-      <div class="about-image">
-        <img src="images/frog_green_bg.png" alt="drawings">
-        <img src="images/drawings.png" alt="drawings">
-      </div>
-    </div>
+        <!-- Personality aspect 3 -->
+        <div class="shifting-item">
+          <div class="shifting-text">
+            <p data-i18n="about.p3"></p>
+          </div>
+          <div class="shifting-image">
+            <img src="images/frog_green_bg.png" alt="drawings" />
+            <img src="images/drawings.png" alt="drawings" />
+          </div>
+        </div>
 
-    <!-- Personality aspect 4 -->
-    <div class="about-item reverse">
-      <div class="about-text">
-        <p data-i18n="about.p4"></p>
-      </div>
-      <div class="about-image">
-        <img src="images/finisher_picture.jpg" alt="Race finisher">
-      </div>
-    </div>
-  </section>
-</main>
+        <!-- Personality aspect 4 -->
+        <div class="shifting-item reverse">
+          <div class="shifting-text">
+            <p data-i18n="about.p4"></p>
+          </div>
+          <div class="shifting-image">
+            <img src="images/finisher_picture.jpg" alt="Race finisher" />
+          </div>
+        </div>
+      </section>
+    </main>
 
-
-    <footer>
-    <p>&copy; 2025 Chloé Boireau-Devier</p>
-    </footer>
+    <footer-component></footer-component>
 
     <script src="js/script.js"></script>
-    </body>
-    </html>
+  </body>
+</html>

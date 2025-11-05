@@ -39,7 +39,7 @@ class Header extends HTMLElement {
       <header>
       <link rel="icon" type="image/png" href="/images/leaves.png">
         <nav class="navbar">
-          <a href="index.html" class="logo">
+          <a href="index.html">
             <img src="images/leaves.png" alt="Logo" class="navbar-icon"/>
           </a>
           <ul class="nav-links">
