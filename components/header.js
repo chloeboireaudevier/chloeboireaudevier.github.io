@@ -5,37 +5,7 @@ class Header extends HTMLElement {
   }
   connectedCallback() {
     this.innerHTML = `
-      <style>
-        header {
-          background: #093f26;
-          color: white;
-          padding: 1rem;
-          position: sticky;
-          top: 0;
-        }
-        .navbar {
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-        }
-        .nav-links {
-          list-style: none;
-          display: flex;
-          gap: 1rem;
-        }
-        .nav-links a {
-          color: white;
-          text-decoration: none;
-        }
-        body.dark header,
-        body.dark footer {
-          background: #000;
-        }
-        .nav-links a.active {
-          color: #60ae8a;
-          font-weight: bold;
-        }
-      </style>
+      <link rel="stylesheet" href="css/style.css">
       <header>
       <link rel="icon" type="image/png" href="/images/leaves.png">
         <nav class="navbar">
@@ -79,11 +49,11 @@ class Header extends HTMLElement {
     });
 
     // Highlight current page link
-    this.querySelectorAll(".nav-links a").forEach(link => {
+    this.querySelectorAll(".nav-links a").forEach((link) => {
       if (link.href === window.location.href) {
         link.classList.add("active");
       }
     });
   }
 }
-customElements.define('header-component', Header);
+customElements.define("header-component", Header);

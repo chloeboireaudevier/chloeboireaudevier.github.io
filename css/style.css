@@ -84,7 +84,7 @@ body.dark footer {
 
 .nav-links a:hover,
 .nav-links a.active {
-  color: var(--hoover-green);
+  color: var(--dark-link-color);
 }
 
 .nav-links a.active {
