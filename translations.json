@@ -26,7 +26,8 @@
       "title": "About Me",
       "text": "Get to know me !",
       "p1": "I’m a curious learner who loves exploring new technologies and finding creative solutions. After my double degree in computer science and mathematics at Université Toulouse III, I joined ENSEEIHT to pursue a software engineer career ! If you want to know more about me on a professionnal level, feel free to take a look at my CV ! ",
-      "seeCv": "View CV",
+      "seeCvFR": "View CV (FR)",
+      "seeCvENG": "View CV (ENG)",
       "p2": "My love for computer science mostly came from video games. Since I was little, I loved action-adventure and puzzle games ; the Legend of Zelda games being my favorites of all time. I wanted to create games that would move people the way they moved me. Now I enjoy creating any type of software ;)",
       "p3": "I would describle myself as creative. I love trying new hobbies and turning crazy ideas into reality : a few examples would be SFX and artistic makeup, drawing, as well as sewing. I also am currently leanring how to play the guitar !",
       "p4": "I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment is a sub two hours half marathon, and I am training for my first ever full marathon ! It really teaches discipline and rigor."
@@ -170,7 +171,8 @@
       "title": "À propos de moi",
       "text": "Apprennez-en plus sur moi !",
       "p1": "Je suis une personne curieuse qui aime explorer de nouvelles technologies et trouver des solutions créatives. Après mon double diplôme en informatique et mathématiques à l’Université Toulouse III, j’ai rejoint l’ENSEEIHT pour poursuivre une carrière d’ingénieure en informatique ! Si vous souhaitez en savoir plus sur mon profil professionnel, n’hésitez pas à consulter mon CV !",
-      "seeCv": "Voir le CV",
+      "seeCvFR": "Voir le CV (FR)",
+      "seeCvENG": "Voir le CV (ENG)",
       "p2": "Mon amour pour l’informatique vient principalement des jeux vidéo. Depuis toute petite, j’adore les jeux d’action-aventure et de réflexion ; la série The Legend of Zelda reste ma préférée. J’ai voulu créer des jeux capables d’émouvoir les gens comme ils m’ont émue. Aujourd’hui, j’aime créer tout type de logiciel ;)",
       "p3": "Je me décrirais comme une personne créative. J’aime essayer de nouveaux loisirs et transformer des idées folles en réalité : quelques exemples seraient le maquillage effets spéciaux et artistique, le dessin ou encore la couture. J’apprends aussi actuellement à jouer de la guitare !",
       "p4": "Je cours aussi ! C’est un excellent moyen pour moi d’évacuer le stress et de me dépasser. Mon plus grand accomplissement pour l’instant est un semi-marathon en moins de deux heures, et je m’entraîne pour mon tout premier marathon complet ! Cela m’apprend la discipline et la rigueur."
