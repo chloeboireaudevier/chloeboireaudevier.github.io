@@ -136,7 +136,10 @@
       },
       "interviews": {
         "title": "Interviews",
-        "note": "Work In Progess"
+        "note": "You can find here written reports of the interviews I did to build my PPP. I found all of them through MyJobGlasses.",
+        "R1": "Interview 1 Report",
+        "R2": "Interview 2 Report",
+        "R3": "Interview 3 Report"
       },
       "other": {
         "title": "Other",
@@ -281,7 +284,10 @@
       },
       "interviews": {
         "title": "Interviews",
-        "note": "En cours"
+        "note": "Vous pouvez trouver ici les rapports écrits des interviews que j'ai faites pour construire mon PPP. Je les ai trouvées sur MyJobGlasses.",
+        "R1": "Rapport Interview 1",
+        "R2": "Rapport Interview 2",
+        "R3": "Rapport Interview 3"
       },
       "other": {
         "title": "Autre",
