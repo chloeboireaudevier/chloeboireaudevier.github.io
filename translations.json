@@ -30,7 +30,7 @@
       "seeCvENG": "View CV (ENG)",
       "p2": "My love for computer science mostly came from video games. Since I was little, I loved action-adventure and puzzle games ; the Legend of Zelda games being my favorites of all time. I wanted to create games that would move people the way they moved me. Now I enjoy creating any type of software ;)",
       "p3": "I would describle myself as creative. I love trying new hobbies and turning crazy ideas into reality : a few examples would be SFX and artistic makeup, drawing, as well as sewing. I also am currently leanring how to play the guitar !",
-      "p4": "I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment is a sub two hours half marathon, and I am training for my first ever full marathon ! It really teaches discipline and rigor."
+      "p4": "I also run ! It is a great way for me to evacuate stress but also to push myself to my limit ! Right now, my biggest accomplishment are a sub two hours half marathon, and a full marathon I completed in more than 5 hours ! It really teaches discipline and rigor."
     },
     "projects": {
       "title": "Professional Projects",
@@ -143,7 +143,8 @@
       },
       "other": {
         "title": "Other",
-        "note": "Work In Progess"
+        "note": "You can find here any other document needed to understand my PPP",
+        "coverLetter": "Cover Letter Example"
       }
     }
   },
@@ -178,7 +179,7 @@
       "seeCvENG": "Voir le CV (ENG)",
       "p2": "Mon amour pour l’informatique vient principalement des jeux vidéo. Depuis toute petite, j’adore les jeux d’action-aventure et de réflexion ; la série The Legend of Zelda reste ma préférée. J’ai voulu créer des jeux capables d’émouvoir les gens comme ils m’ont émue. Aujourd’hui, j’aime créer tout type de logiciel ;)",
       "p3": "Je me décrirais comme une personne créative. J’aime essayer de nouveaux loisirs et transformer des idées folles en réalité : quelques exemples seraient le maquillage effets spéciaux et artistique, le dessin ou encore la couture. J’apprends aussi actuellement à jouer de la guitare !",
-      "p4": "Je cours aussi ! C’est un excellent moyen pour moi d’évacuer le stress et de me dépasser. Mon plus grand accomplissement pour l’instant est un semi-marathon en moins de deux heures, et je m’entraîne pour mon tout premier marathon complet ! Cela m’apprend la discipline et la rigueur."
+      "p4": "Je cours aussi ! C’est un excellent moyen pour moi d’évacuer le stress et de me dépasser. Mes plus grands accomplissements pour l’instant sont un semi-marathon en moins de deux heures et un marathon complet, que j'ai couru en plus de 5h ! Cela m’apprend la discipline et la rigueur."
     },
     "projects": {
       "title": "Projets Professionnels",
@@ -291,7 +292,8 @@
       },
       "other": {
         "title": "Autre",
-        "note": "En cours"
+        "note": "Vous pouvez trouver ici tout atre document nécéssaire à la compréhension de mon PPP.",
+        "coverLetter": "Exemple de Lettre de Motivation"
       }
     }
   }
