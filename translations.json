@@ -132,7 +132,8 @@
       "subtitle": "Find here everything you need to understand my professional project !",
       "PPT": {
         "title": "Power Point Presentation",
-        "note": "Currently a work in progress ! But you will find my PPP PowerPoint here when it's ready !"
+        "note": "Find here my PPP slides",
+        "ppt": "Presentation slides"
       },
       "interviews": {
         "title": "Interviews",
@@ -281,7 +282,8 @@
       "subtitle": "Trouvez ici tout ce dont vous avez besoin pour comprendre mon projet professionnel !",
       "PPT": {
         "title": "Présentation Power Point",
-        "note": "Actuellement en cours de préparation ! Mais vous trouverez ici les transparents du PPP quand ils seront prêts ! "
+        "note": "Trouvez ici les transparents du PPP.",
+        "ppt": "Transparents de la présentation"
       },
       "interviews": {
         "title": "Interviews",
